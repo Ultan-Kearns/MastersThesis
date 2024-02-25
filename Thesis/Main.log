@@ -1,0 +1,4247 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.25)  25 FEB 2024 21:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Main.tex --shell-escape
+(./Main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 10.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 11.
+
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box51
+\extrarowheight=\dimen150
+\NC@list=\toks18
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box52
+)
+\TX@col@width=\dimen151
+\TX@old@table=\dimen152
+\TX@old@col=\dimen153
+\TX@target=\dimen154
+\TX@delta=\dimen155
+\TX@cols=\count197
+\TX@ftn=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen156
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks21
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks22
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks23
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks25
+\theorem@@style=\toks26
+\theorembodyfont=\toks27
+\theoremnumbering=\toks28
+\theorempreskipamount=\skip64
+\theorempostskipamount=\skip65
+\theoremframepreskipamount=\skip66
+\theoremframepostskipamount=\skip67
+\theoreminframepreskipamount=\skip68
+\theoreminframepostskipamount=\skip69
+\theorem@preskip=\toks29
+\theorem@postskip=\toks30
+\theorem@framepreskip=\toks31
+\theorem@framepostskip=\toks32
+\theorem@inframepreskip=\toks33
+\theorem@inframepostskip=\toks34
+\theoremindent=\dimen165
+\theorem@indent=\dimen166
+\theoremrightindent=\dimen167
+\theorem@rightindent=\dimen168
+\theoremheaderfont=\toks35
+\theoremseparator=\toks36
+\theoremprework=\toks37
+\theorempostwork=\toks38
+\theoremsymbol=\toks39
+\qedsymbol=\toks40
+\theoremkeyword=\toks41
+\qedsymbol=\toks42
+\thm@topsep=\skip70
+\thm@topsepadd=\skip71
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen171
+\captionmargin=\dimen172
+\caption@leftmargin=\dimen173
+\caption@rightmargin=\dimen174
+\caption@width=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count278
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count279
+)
+(/usr/share/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip72
+\plpartopsep=\skip73
+\plitemsep=\skip74
+\plparsep=\skip75
+\pl@lab=\toks43
+)
+(/usr/share/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+)
+(/usr/share/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+)
+\XKV@depth=\count281
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count282
+))
+\c@padzeroesN=\count283
+\fc@tmpcatcode=\count284
+\@DT@modctr=\count285
+\@ordinalctr=\count286
+\@orgargctr=\count287
+\@strctr=\count288
+\@tmpstrctr=\count289
+\@DT@loopN=\count290
+\@DT@X=\count291
+)
+(/usr/share/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count292
+\@month=\count293
+\@year=\count294
+\c@HOUR=\count295
+\c@HOURXII=\count296
+\c@MINUTE=\count297
+\c@TOHOUR=\count298
+\c@TOMINUTE=\count299
+\c@SECOND=\count300
+\currenthour=\count301
+\currentminute=\count302
+\currentsecond=\count303
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count304
+\dayofyear=\count305
+\dayofweek=\count306
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks46
+\dt@b=\toks47
+)
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read2
+)
+(/usr/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip76
+\thanksmargin=\skip77
+\droptitle=\skip78
+)
+(/usr/share/texmf-dist/tex/latex/titlepic/titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip79
+\enit@outerparindent=\dimen179
+\enit@toks=\toks50
+\enit@inbox=\box55
+\enit@count@id=\count307
+\enitdp@description=\count308
+)
+(/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count309
+\c@@ppsavesec=\count310
+\c@@ppsaveapp=\count311
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count312
+)
+\@linkdim=\dimen180
+\Hy@linkcounter=\count313
+\Hy@pagecounter=\count314
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count315
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count316
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen181
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count317
+\Field@Width=\dimen182
+\Fld@charsize=\dimen183
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count318
+\c@Item=\count319
+\c@Hfootnote=\count320
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count321
+\c@bookmark@seq@number=\count322
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip80
+)
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count323
+\calc@Bcount=\count324
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip81
+\calc@Bskip=\skip82
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count325
+\calc@Cskip=\skip83
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen186
+\ESO@tempdimb=\dimen187
+
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen188
+\AM@pageheight=\dimen189
+\AM@fboxrule=\dimen190
+
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count326
+\AM@pagebox=\box56
+\AM@global@opts=\toks51
+\AM@pagecnt=\count327
+\AM@toc@title=\toks52
+\AM@lof@heading=\toks53
+\c@AM@survey=\count328
+\AM@templatesizebox=\box57
+)
+(/usr/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/share/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+\c@EM@itemctr=\count329
+\c@EM@etaremunectr=\count330
+)
+(/usr/share/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+Package bm Info: No bold for \U/rsfs/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(/usr/share/texmf-dist/tex/latex/sansmath/sansmath.sty
+Package: sansmath 2007/02/28  ver 1.1 Donald Arseneau
+\c@mv@sans=\count331
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfsl' in version `sans'
+(Font)                  OT1/cmss/m/sl --> OT1/cmss/m/sl on input line 104.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sans'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 105.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sans'
+(Font)                  OML/cmm/m/it --> OML/cmm/m/it on input line 109.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sans'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfbf' in version `sans'
+(Font)                  OT1/cmss/bx/sl --> OT1/cmss/bx/n on input line 112.
+)
+(/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks54
+\pgfutil@tempdima=\dimen191
+\pgfutil@tempdimb=\dimen192
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks55
+\pgfkeys@temptoks=\toks56
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
+\pgfkeys@tmptoks=\toks57
+))
+\pgf@x=\dimen193
+\pgf@y=\dimen194
+\pgf@xa=\dimen195
+\pgf@ya=\dimen196
+\pgf@xb=\dimen197
+\pgf@yb=\dimen198
+\pgf@xc=\dimen199
+\pgf@yc=\dimen256
+\pgf@xd=\dimen257
+\pgf@yd=\dimen258
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count332
+\c@pgf@countb=\count333
+\c@pgf@countc=\count334
+\c@pgf@countd=\count335
+\t@pgf@toka=\toks58
+\t@pgf@tokb=\toks59
+\t@pgf@tokc=\toks60
+\pgf@sys@id@count=\count336
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count337
+\pgfsyssoftpath@bigbuffer@items=\count338
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen259
+\pgfmath@count=\count339
+\pgfmath@box=\box59
+\pgfmath@toks=\toks61
+\pgfmath@stack@operand=\toks62
+\pgfmath@stack@operation=\toks63
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count340
+))
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen260
+\pgf@picmaxx=\dimen261
+\pgf@picminy=\dimen262
+\pgf@picmaxy=\dimen263
+\pgf@pathminx=\dimen264
+\pgf@pathmaxx=\dimen265
+\pgf@pathminy=\dimen266
+\pgf@pathmaxy=\dimen267
+\pgf@xx=\dimen268
+\pgf@xy=\dimen269
+\pgf@yx=\dimen270
+\pgf@yy=\dimen271
+\pgf@zx=\dimen272
+\pgf@zy=\dimen273
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen274
+\pgf@path@lasty=\dimen275
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen276
+\pgf@shorten@start@additional=\dimen277
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count341
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen278
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen279
+\pgf@pt@y=\dimen280
+\pgf@pt@temp=\dimen281
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen282
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen283
+\pgf@sys@shading@range@num=\count342
+\pgf@shadingcount=\count343
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box63
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box64
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
+\pgffor@stack=\toks64
+\pgffor@toks=\toks65
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count344
+\pgfplotmarksize=\dimen288
+)
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count345
+\tikznumberofchildren=\count346
+\tikznumberofcurrentchild=\count347
+\tikz@fig@count=\count348
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count349
+\pgfmatrixcurrentcolumn=\count350
+\pgf@matrix@numberofcolumns=\count351
+)
+\tikz@expandcount=\count352
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks66
+\t@pgfplots@tokb=\toks67
+\t@pgfplots@tokc=\toks68
+\pgfplots@tmpa=\dimen297
+\c@pgfplots@coordindex=\count353
+\c@pgfplots@scanlineindex=\count354
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_l
+oader.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks69
+\t@pgf@tokb=\toks70
+\t@pgf@tokc=\toks71
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_p
+gfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+ext.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.te
+x
+\c@pgfplotsarray@tmp=\count355
+)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.t
+ex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.t
+ex
+\c@pgfplotstable@counta=\count356
+\t@pgfplotstable@a=\toks72
+)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading
+.code.tex
+\c@pgfplotslibrarysurf@no=\count357
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.
+pgfsys-pdftex.def)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen298
+\pgfdecoratedremainingdistance=\dimen299
+\pgfdecoratedinputsegmentcompleteddistance=\dimen300
+\pgfdecoratedinputsegmentremainingdistance=\dimen301
+\pgf@decorate@distancetomove=\dimen302
+\pgf@decorate@repeatstate=\count358
+\pgfdecorationsegmentamplitude=\dimen303
+\pgfdecorationsegmentlength=\dimen304
+)
+\tikz@lib@dec@box=\box69
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathreplacing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathreplacing.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua
+.code.tex)
+\pgfplots@numplots=\count359
+\pgfplots@xmin@reg=\dimen305
+\pgfplots@xmax@reg=\dimen306
+\pgfplots@ymin@reg=\dimen307
+\pgfplots@ymax@reg=\dimen308
+\pgfplots@zmin@reg=\dimen309
+\pgfplots@zmax@reg=\dimen310
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+plotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count360
+\l__pdf_internal_box=\box70
+))
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+(/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+
+(/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count361
+Package zref Info: New property: abspage on input line 65.
+)
+(/usr/share/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip84
+\c@mdf@globalstyle@cnt=\count362
+\mdf@skipabove@length=\skip85
+\mdf@skipbelow@length=\skip86
+\mdf@leftmargin@length=\skip87
+\mdf@rightmargin@length=\skip88
+\mdf@innerleftmargin@length=\skip89
+\mdf@innerrightmargin@length=\skip90
+\mdf@innertopmargin@length=\skip91
+\mdf@innerbottommargin@length=\skip92
+\mdf@splittopskip@length=\skip93
+\mdf@splitbottomskip@length=\skip94
+\mdf@outermargin@length=\skip95
+\mdf@innermargin@length=\skip96
+\mdf@linewidth@length=\skip97
+\mdf@innerlinewidth@length=\skip98
+\mdf@middlelinewidth@length=\skip99
+\mdf@outerlinewidth@length=\skip100
+\mdf@roundcorner@length=\skip101
+\mdf@footenotedistance@length=\skip102
+\mdf@userdefinedwidth@length=\skip103
+\mdf@needspace@length=\skip104
+\mdf@frametitleaboveskip@length=\skip105
+\mdf@frametitlebelowskip@length=\skip106
+\mdf@frametitlerulewidth@length=\skip107
+\mdf@frametitleleftmargin@length=\skip108
+\mdf@frametitlerightmargin@length=\skip109
+\mdf@shadowsize@length=\skip110
+\mdf@extratopheight@length=\skip111
+\mdf@subtitleabovelinewidth@length=\skip112
+\mdf@subtitlebelowlinewidth@length=\skip113
+\mdf@subtitleaboveskip@length=\skip114
+\mdf@subtitlebelowskip@length=\skip115
+\mdf@subtitleinneraboveskip@length=\skip116
+\mdf@subtitleinnerbelowskip@length=\skip117
+\mdf@subsubtitleabovelinewidth@length=\skip118
+\mdf@subsubtitlebelowlinewidth@length=\skip119
+\mdf@subsubtitleaboveskip@length=\skip120
+\mdf@subsubtitlebelowskip@length=\skip121
+\mdf@subsubtitleinneraboveskip@length=\skip122
+\mdf@subsubtitleinnerbelowskip@length=\skip123
+
+(/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box71
+\mdf@footnotebox=\box72
+\mdf@splitbox@one=\box73
+\mdf@splitbox@two=\box74
+\mdf@splitbox@save=\box75
+\mdfsplitboxwidth=\skip124
+\mdfsplitboxtotalwidth=\skip125
+\mdfsplitboxheight=\skip126
+\mdfsplitboxdepth=\skip127
+\mdfsplitboxtotalheight=\skip128
+\mdfframetitleboxwidth=\skip129
+\mdfframetitleboxtotalwidth=\skip130
+\mdfframetitleboxheight=\skip131
+\mdfframetitleboxdepth=\skip132
+\mdfframetitleboxtotalheight=\skip133
+\mdffootnoteboxwidth=\skip134
+\mdffootnoteboxtotalwidth=\skip135
+\mdffootnoteboxheight=\skip136
+\mdffootnoteboxdepth=\skip137
+\mdffootnoteboxtotalheight=\skip138
+\mdftotallinewidth=\skip139
+\mdfboundingboxwidth=\skip140
+\mdfboundingboxtotalwidth=\skip141
+\mdfboundingboxheight=\skip142
+\mdfboundingboxdepth=\skip143
+\mdfboundingboxtotalheight=\skip144
+\mdf@freevspace@length=\skip145
+\mdf@horizontalwidthofbox@length=\skip146
+\mdf@verticalmarginwhole@length=\skip147
+\mdf@horizontalspaceofbox=\skip148
+\mdfsubtitleheight=\skip149
+\mdfsubsubtitleheight=\skip150
+\c@mdfcountframes=\count363
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count364
+\c@mdf@env@i=\count365
+\c@mdf@env@ii=\count366
+\c@mdf@zref@counter=\count367
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count368
+\float@exts=\toks73
+\float@box=\box76
+\@float@everytoks=\toks74
+\@floatcapt=\box77
+)
+(/usr/share/texmf-dist/tex/latex/tikz-3dplot/tikz-3dplot.sty
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+3d.code.tex
+File: tikzlibrary3d.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen311
+)))
+(/usr/share/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/share/texmf-dist/tex/latex/breakcites/breakcites.sty)
+(/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2023-03-04 v3.2.2 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen312
+\l__siunitx_angle_marker_box=\box78
+\l__siunitx_angle_unit_box=\box79
+\l__siunitx_compound_count_int=\count369
+
+(/usr/share/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count370
+\l__siunitx_number_min_decimal_int=\count371
+\l__siunitx_number_min_integer_int=\count372
+\l__siunitx_number_round_precision_int=\count373
+\l__siunitx_number_lower_threshold_int=\count374
+\l__siunitx_number_upper_threshold_int=\count375
+\l__siunitx_number_group_first_int=\count376
+\l__siunitx_number_group_size_int=\count377
+\l__siunitx_number_group_minimum_int=\count378
+\l__siunitx_table_tmp_box=\box80
+\l__siunitx_table_tmp_dim=\dimen313
+\l__siunitx_table_column_width_dim=\dimen314
+\l__siunitx_table_integer_box=\box81
+\l__siunitx_table_decimal_box=\box82
+\l__siunitx_table_uncert_box=\box83
+\l__siunitx_table_before_box=\box84
+\l__siunitx_table_after_box=\box85
+\l__siunitx_table_before_dim=\dimen315
+\l__siunitx_table_carry_dim=\dimen316
+\l__siunitx_unit_tmp_int=\count379
+\l__siunitx_unit_position_int=\count380
+\l__siunitx_unit_total_int=\count381
+)
+(/usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count382
+\l__lipsum_a_int=\count383
+\l__lipsum_b_int=\count384
+
+(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2022/12/12 v2.7 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2022/11/30 v1.5 fvextra - extensions and patches for fancyvrb
+
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
+\FV@CodeLineNo=\count385
+\FV@InFile=\read4
+\FV@TabBox=\box86
+\c@FancyVerbLine=\count386
+\FV@StepNumber=\count387
+\FV@OutFile=\write4
+)
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2023/01/19 line numbers on paragraphs v5.1
+\linenopenalty=\count388
+\output=\toks75
+\linenoprevgraf=\count389
+\linenumbersep=\dimen317
+\linenumberwidth=\dimen318
+\c@linenumber=\count390
+\c@pagewiselinenumber=\count391
+\c@LN@truepage=\count392
+\c@internallinenumber=\count393
+\c@internallinenumbers=\count394
+\quotelinenumbersep=\dimen319
+\bframerule=\dimen320
+\bframesep=\dimen321
+\bframebox=\box87
+\linenoamsmath@ams@eqpen=\count395
+LaTeX Info: Redefining \\ on input line 3131.
+)
+\c@FV@TrueTabGroupLevel=\count396
+\c@FV@TrueTabCounter=\count397
+\FV@TabBox@Group=\box88
+\FV@TmpLength=\skip151
+\c@FV@HighlightLinesStart=\count398
+\c@FV@HighlightLinesStop=\count399
+\FV@LoopCount=\count400
+\FV@NCharsBox=\box89
+\FV@BreakIndent=\dimen322
+\FV@BreakIndentNChars=\count401
+\FV@BreakSymbolSepLeft=\dimen323
+\FV@BreakSymbolSepLeftNChars=\count402
+\FV@BreakSymbolSepRight=\dimen324
+\FV@BreakSymbolSepRightNChars=\count403
+\FV@BreakSymbolIndentLeft=\dimen325
+\FV@BreakSymbolIndentLeftNChars=\count404
+\FV@BreakSymbolIndentRight=\dimen326
+\FV@BreakSymbolIndentRightNChars=\count405
+\c@FancyVerbLineBreakLast=\count406
+\FV@LineBox=\box90
+\FV@LineIndentBox=\box91
+\c@FV@BreakBufferDepth=\count407
+\FV@LineWidth=\dimen327
+)
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(/usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count408
+\decimalpart=\count409
+)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+)
+(/usr/share/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip152
+\fb@frw=\dimen328
+\fb@frh=\dimen329
+\FrameRule=\dimen330
+\FrameSep=\dimen331
+)
+\minted@appexistsfile=\read5
+\minted@bgbox=\box92
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count410
+\c@minted@pygmentizecounter=\count411
+\@float@every@listing=\toks76
+\c@listing=\count412
+)
+runsystem(mkdir -p _minted-Main)...disabled (restricted).
+
+
+
+! Package minted Error: You must invoke LaTeX with the -shell-escape flag.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \usepackage
+                {caption}
+? 
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count413
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count414
+\c@listtotal=\count415
+\c@listcount=\count416
+\c@liststart=\count417
+\c@liststop=\count418
+\c@citecount=\count419
+\c@citetotal=\count420
+\c@multicitecount=\count421
+\c@multicitetotal=\count422
+\c@instcount=\count423
+\c@maxnames=\count424
+\c@minnames=\count425
+\c@maxitems=\count426
+\c@minitems=\count427
+\c@citecounter=\count428
+\c@maxcitecounter=\count429
+\c@savedcitecounter=\count430
+\c@uniquelist=\count431
+\c@uniquename=\count432
+\c@refsection=\count433
+\c@refsegment=\count434
+\c@maxextratitle=\count435
+\c@maxextratitleyear=\count436
+\c@maxextraname=\count437
+\c@maxextradate=\count438
+\c@maxextraalpha=\count439
+\c@abbrvpenalty=\count440
+\c@highnamepenalty=\count441
+\c@lownamepenalty=\count442
+\c@maxparens=\count443
+\c@parenlevel=\count444
+\blx@tempcnta=\count445
+\blx@tempcntb=\count446
+\blx@tempcntc=\count447
+\c@blx@maxsection=\count448
+\blx@maxsegment@0=\count449
+\blx@notetype=\count450
+\blx@parenlevel@text=\count451
+\blx@parenlevel@foot=\count452
+\blx@sectionciteorder@0=\count453
+\blx@sectionciteorderinternal@0=\count454
+\blx@entrysetcounter=\count455
+\blx@biblioinstance=\count456
+\labelnumberwidth=\skip153
+\labelalphawidth=\skip154
+\biblabelsep=\skip155
+\bibitemsep=\skip156
+\bibnamesep=\skip157
+\bibinitsep=\skip158
+\bibparsep=\skip159
+\bibhang=\skip160
+\blx@bcfin=\read6
+\blx@bcfout=\write6
+\blx@langwohyphens=\language3
+\c@mincomprange=\count457
+\c@maxcomprange=\count458
+\c@mincompwidth=\count459
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count460
+\c@savedafterword=\count461
+\c@annotator=\count462
+\c@savedannotator=\count463
+\c@author=\count464
+\c@savedauthor=\count465
+\c@bookauthor=\count466
+\c@savedbookauthor=\count467
+\c@commentator=\count468
+\c@savedcommentator=\count469
+\c@editor=\count470
+\c@savededitor=\count471
+\c@editora=\count472
+\c@savededitora=\count473
+\c@editorb=\count474
+\c@savededitorb=\count475
+\c@editorc=\count476
+\c@savededitorc=\count477
+\c@foreword=\count478
+\c@savedforeword=\count479
+\c@holder=\count480
+\c@savedholder=\count481
+\c@introduction=\count482
+\c@savedintroduction=\count483
+\c@namea=\count484
+\c@savednamea=\count485
+\c@nameb=\count486
+\c@savednameb=\count487
+\c@namec=\count488
+\c@savednamec=\count489
+\c@translator=\count490
+\c@savedtranslator=\count491
+\c@shortauthor=\count492
+\c@savedshortauthor=\count493
+\c@shorteditor=\count494
+\c@savedshorteditor=\count495
+\c@labelname=\count496
+\c@savedlabelname=\count497
+\c@institution=\count498
+\c@savedinstitution=\count499
+\c@lista=\count500
+\c@savedlista=\count501
+\c@listb=\count502
+\c@savedlistb=\count503
+\c@listc=\count504
+\c@savedlistc=\count505
+\c@listd=\count506
+\c@savedlistd=\count507
+\c@liste=\count508
+\c@savedliste=\count509
+\c@listf=\count510
+\c@savedlistf=\count511
+\c@location=\count512
+\c@savedlocation=\count513
+\c@organization=\count514
+\c@savedorganization=\count515
+\c@origlocation=\count516
+\c@savedoriglocation=\count517
+\c@origpublisher=\count518
+\c@savedorigpublisher=\count519
+\c@publisher=\count520
+\c@savedpublisher=\count521
+\c@language=\count522
+\c@savedlanguage=\count523
+\c@origlanguage=\count524
+\c@savedoriglanguage=\count525
+\c@pageref=\count526
+\c@savedpageref=\count527
+\shorthandwidth=\skip161
+\shortjournalwidth=\skip162
+\shortserieswidth=\skip163
+\shorttitlewidth=\skip164
+\shortauthorwidth=\skip165
+\shorteditorwidth=\skip166
+\locallabelnumberwidth=\skip167
+\locallabelalphawidth=\skip168
+\localshorthandwidth=\skip169
+\localshortjournalwidth=\skip170
+\localshortserieswidth=\skip171
+\localshorttitlewidth=\skip172
+\localshortauthorwidth=\skip173
+\localshorteditorwidth=\skip174
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count528
+\c@textcitetotal=\count529
+\c@textcitemaxnames=\count530
+\c@biburlbigbreakpenalty=\count531
+\c@biburlbreakpenalty=\count532
+\c@biburlnumpenalty=\count533
+\c@biburlucpenalty=\count534
+\c@biburllcpenalty=\count535
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count536
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count537
+\c@bbx:relatedtotal=\count538
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count539
+\c@cbx@tempcntb=\count540
+\c@cbx@tempcntc=\count541
+\c@cbx@tempcntd=\count542
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2023-02-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+(/usr/share/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\c@svg@param@lastpage=\count543
+\svg@box=\box93
+\c@svg@param@currpage=\count544
+)
+(/usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+
+(/usr/share/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
+ stack (HO)
+))
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count545
+\lst@gtempboxa=\box94
+\lst@token=\toks77
+\lst@length=\count546
+\lst@currlwidth=\dimen332
+\lst@column=\count547
+\lst@pos=\count548
+\lst@lostspace=\dimen333
+\lst@width=\dimen334
+\lst@newlines=\count549
+\lst@lineno=\count550
+\lst@maxwidth=\dimen335
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count551
+\lst@skipnumbers=\count552
+\lst@framebox=\box95
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 96.
+runsystem(which pygmentize && touch Main.aex)...disabled (restricted).
+
+
+
+! Package minted Error: You must have `pygmentize' installed to use this packag
+e.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \begin{document}
+                     
+? 
+\@quotelevel=\count553
+\@quotereset=\count554
+(./Main.aux (./Acknowledgements.aux) (./Acronyms.aux) (./Abstract.aux)
+(./Chapter 1 Introduction.aux) (./Chapter 2 Literature Review.aux)
+Runaway argument?
+{fig:Figure of Faster RCNN Res Block and I 
+! File ended while scanning use of \@newl@bel.
+<inserted text> 
+                \par 
+l.87 \@input{Chapter 2 Literature Review.aux}
+                                             
+? 
+)
+Runaway argument?
+{litReview 
+! File ended while scanning use of \abx@aux@segm.
+<inserted text> 
+                \par 
+l.96 \begin{document}
+                     
+? 
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(76.82234pt, 443.86319pt, 76.82234pt)
+* v-part:(T,H,B)=(113.81102pt, 631.65118pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=443.86319pt
+* \textheight=631.65118pt
+* \oddsidemargin=4.55235pt
+* \evensidemargin=4.55235pt
+* \topmargin=4.54103pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count555
+\scratchdimen=\dimen336
+\scratchbox=\box96
+\nofMPsegments=\count556
+\nofMParguments=\count557
+\everyMPshowfont=\toks78
+\MPscratchCnt=\count558
+\MPscratchDim=\dimen337
+\MPnumerator=\count559
+\makeMPintoPDFobject=\count560
+\everyMPtoPDFconversion=\toks79
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+Package hyperref Info: Link coloring OFF on input line 96.
+ (./Main.out)
+Runaway argument?
+{\376\377\000C\00 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.96 \begin{document}
+                     
+? 
+(./Main.out)
+Runaway argument?
+{\376\377\000C\00 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.96 \begin{document}
+                     
+? 
+\@outlinefile=\write7
+\openout7 = `Main.out'.
+
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 96.
+
+
+(/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-eng
+lish.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 96.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout6 = `Main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Main.bbl' not found.
+
+No file Main.bbl.
+Package biblatex Info: Reference section=0 on input line 96.
+Package biblatex Info: Reference segment=0 on input line 96.
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\c@lstlisting=\count561
+<figures/ATULogo.png, id=95, 1177.39874pt x 647.41875pt>
+File: figures/ATULogo.png Graphic file (type png)
+<use figures/ATULogo.png>
+Package pdftex.def Info: figures/ATULogo.png  used on input line 103.
+(pdftex.def)             Requested size: 221.9316pt x 122.03284pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/ATULogo.png>] (.
+/Main.toc)
+\tf@toc=\write8
+\openout8 = `Main.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.143 \chapter
+              *{Declaration} [1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 156
+.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 156
+.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
+6.
+
+(/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+56.
+
+(/usr/share/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+Overfull \hbox (0.67409pt too wide) in paragraph at lines 156--157
+[]  \OT1/cmr/m/n/10.95 Signed: $[]$ 
+ []
+
+[2
+
+]
+\openout2 = `Acknowledgements.aux'.
+
+ (./Acknowledgements.tex) [3
+
+
+]
+\openout2 = `Acronyms.aux'.
+
+ (./Acronyms.tex) [4
+
+
+
+
+] (./Main.lof)
+\tf@lof=\write9
+\openout9 = `Main.lof'.
+
+ [5
+
+
+
+]
+(./Main.lot)
+\tf@lot=\write10
+\openout10 = `Main.lot'.
+
+ [6
+
+]
+\openout2 = `Abstract.aux'.
+
+ (./Abstract.tex
+
+LaTeX Warning: Citation 'covid19DataQuality' on page 1 undefined on input line 
+2.
+
+
+LaTeX Warning: Citation 'covid19DataQuality2' on page 1 undefined on input line
+ 2.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \end{abstract}
+                   [1
+
+])
+\openout2 = `"Chapter 1 Introduction.aux"'.
+
+ (./Chapter 1 Introduction.tex
+Chapter 1.
+
+LaTeX Warning: Citation 'generativeAdversarialNetworks' on page 1 undefined on 
+input line 4.
+
+
+LaTeX Warning: Citation 'cycleGan' on page 1 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'styleGan' on page 1 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'pixelRnn' on page 1 undefined on input line 6.
+
+<Images/GAN Basic.jpg, id=136, 802.49812pt x 644.4075pt>
+File: Images/GAN Basic.jpg Graphic file (type jpg)
+<use Images/GAN Basic.jpg>
+Package pdftex.def Info: Images/GAN Basic.jpg  used on input line 12.
+(pdftex.def)             Requested size: 443.87334pt x 284.5333pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 A
+      s we can see from the image above \ref{fig:Example GAN Diagram}, we st...
+[1
+
+
+
+
+]
+
+LaTeX Warning: Citation 'introToCnn' on page 2 undefined on input line 19.
+
+<Images/ANN Basic.jpg, id=143, 519.44063pt x 424.58624pt>
+File: Images/ANN Basic.jpg Graphic file (type jpg)
+<use Images/ANN Basic.jpg>
+Package pdftex.def Info: Images/ANN Basic.jpg  used on input line 25.
+(pdftex.def)             Requested size: 221.9316pt x 181.40236pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 
+      [2 <./Images/GAN Basic.jpg>]
+
+LaTeX Warning: Citation 'introToCnn' on page 3 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'introToCnn' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'introToCnn' on page 3 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'zeroPaddingTrainingTime' on page 3 undefined on input 
+line 41.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \section
+             {Supervised Learning} [3 <./Images/ANN Basic.jpg>]
+
+LaTeX Warning: Citation 'supervisedVsUnsupervised' on page 4 undefined on input
+ line 45.
+
+
+LaTeX Warning: Citation 'supervisedVsUnsupervised' on page 4 undefined on input
+ line 47.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \section
+             {Tensorflow} [4]
+
+LaTeX Warning: Citation 'tensorflow' on page 5 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'tensorflowCaseStudies' on page 5 undefined on input li
+ne 49.
+
+
+LaTeX Warning: Citation 'keras' on page 5 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'kerasExamples' on page 5 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'covid19StatsWorldwide' on page 5 undefined on input li
+ne 57.
+
+
+LaTeX Warning: Citation 'covid19StatsIreland' on page 5 undefined on input line
+ 57.
+
+<Images/COVID19IrelandFigures.png, id=157, 1340.00626pt x 802.49812pt>
+File: Images/COVID19IrelandFigures.png Graphic file (type png)
+<use Images/COVID19IrelandFigures.png>
+Package pdftex.def Info: Images/COVID19IrelandFigures.png  used on input line 6
+1.
+(pdftex.def)             Requested size: 443.86319pt x 265.81705pt.
+
+LaTeX Warning: Citation 'csoCovid19Stats' on page 5 undefined on input line 62.
+
+
+
+LaTeX Warning: Citation 'csoCovid19Stats' on page 5 undefined on input line 62.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \end{figure}
+                  [5]
+<Images/coronavirusWorldWide.png, id=162, 3412.75pt x 2409.0pt>
+File: Images/coronavirusWorldWide.png Graphic file (type png)
+<use Images/coronavirusWorldWide.png>
+Package pdftex.def Info: Images/coronavirusWorldWide.png  used on input line 67
+.
+(pdftex.def)             Requested size: 443.86319pt x 313.29128pt.
+
+
+LaTeX Warning: Citation 'cumulativeCovid19Cases' on page 6 undefined on input l
+ine 68.
+
+
+LaTeX Warning: Citation 'cumulativeCovid19Cases' on page 6 undefined on input l
+ine 68.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.72 T
+      he main objective of this research is to develop a robust model which ...
+[6 <./Images/COVID19IrelandFigures.png>]
+
+LaTeX Warning: Citation 'cnnCOVID19DetectionAhmed' on page 7 undefined on input
+ line 72.
+
+
+LaTeX Warning: Citation 'cnnCOVID19DetectionLopez' on page 7 undefined on input
+ line 72.
+
+[7 <./Images/coronavirusWorldWide.png>]
+
+LaTeX Warning: Citation 'xrayDataset' on page 8 undefined on input line 79.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+LaTeX Warning: Citation 'radiography' on page 8 undefined on input line 82.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+LaTeX Warning: Citation 'covidDataset' on page 8 undefined on input line 85.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+LaTeX Warning: Citation 'extendedCOVIDds' on page 8 undefined on input line 91.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
+
+ []
+
+[8] [9]) [10]
+\openout2 = `"Chapter 2 Literature Review.aux"'.
+
+ (./Chapter 2 literature review.tex
+Chapter 2.
+
+LaTeX Warning: Citation 'CDCCovidTimeline' on page 11 undefined on input line 3
+.
+
+
+LaTeX Warning: Citation 'CovidOriginsMarket' on page 11 undefined on input line
+ 3.
+
+
+LaTeX Warning: Citation 'CovidOriginsLab' on page 11 undefined on input line 3.
+
+
+
+LaTeX Warning: Citation 'CovidOriginsMarket' on page 11 undefined on input line
+ 3.
+
+
+LaTeX Warning: Citation 'smithsonianCovid191918Flu' on page 11 undefined on inp
+ut line 5.
+
+
+LaTeX Warning: Citation 'nationalGeographicCovid191918Flu' on page 11 undefined
+ on input line 5.
+
+<Images/DateOfFirstCovidCaseMap.png, id=191, 446.1468pt x 234.3957pt>
+File: Images/DateOfFirstCovidCaseMap.png Graphic file (type png)
+<use Images/DateOfFirstCovidCaseMap.png>
+Package pdftex.def Info: Images/DateOfFirstCovidCaseMap.png  used on input line
+ 8.
+(pdftex.def)             Requested size: 443.86319pt x 233.20412pt.
+
+LaTeX Warning: Citation 'covid19SpreadMap' on page 11 undefined on input line 9
+.
+
+
+LaTeX Warning: Citation 'covid19SpreadMap' on page 11 undefined on input line 9
+.
+
+
+Overfull \hbox (82.9228pt too wide) in paragraph at lines 3--11
+\OT1/cmr/m/n/10.95 The first re-ported cases of COVID-19 oc-curred in Wuhan, Ch
+ina on De-cem-ber 12th, 2019[],
+ []
+
+
+Overfull \hbox (38.61444pt too wide) in paragraph at lines 3--11
+\OT1/cmr/m/n/10.95 est viruses in hu-man history.[][] 
+ []
+
+[11
+
+
+
+
+]
+
+LaTeX Warning: Citation 'mitTechReviewCovid19' on page 12 undefined on input li
+ne 14.
+
+<Images/OverfittingUnderfitting.png, id=199, 437.2335pt x 448.074pt>
+File: Images/OverfittingUnderfitting.png Graphic file (type png)
+<use Images/OverfittingUnderfitting.png>
+Package pdftex.def Info: Images/OverfittingUnderfitting.png  used on input line
+ 19.
+(pdftex.def)             Requested size: 360.94225pt x 369.89122pt.
+
+LaTeX Warning: Citation 'overfittingKaggle' on page 12 undefined on input line 
+20.
+
+
+LaTeX Warning: Citation 'overfittingKaggle' on page 12 undefined on input line 
+20.
+
+[12 <./Images/DateOfFirstCovidCaseMap.PNG>]
+
+LaTeX Warning: Citation 'mitTechReviewCovid19' on page 13 undefined on input li
+ne 26.
+
+[13 <./Images/OverfittingUnderfitting.png>]
+
+LaTeX Warning: Citation 'litReviewDeepLearningCovid19' on page 14 undefined on 
+input line 30.
+
+<Images/CTScanQualitativeImage1.png, id=211, 522.45187pt x 697.10437pt>
+File: Images/CTScanQualitativeImage1.png Graphic file (type png)
+<use Images/CTScanQualitativeImage1.png>
+Package pdftex.def Info: Images/CTScanQualitativeImage1.png  used on input line
+ 33.
+(pdftex.def)             Requested size: 319.86705pt x 426.79668pt.
+
+LaTeX Warning: Citation 'litReviewDeepLearningCovid19' on page 14 undefined on 
+input line 34.
+
+
+LaTeX Warning: Citation 'litReviewDeepLearningCovid19' on page 14 undefined on 
+input line 34.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10.95 Figure 2.3: |Ex-am-ples of CT Qual-i-ta-tive im-ages lung
+ []
+
+<Images/CTScanQualitativeImage2.png, id=212, 538.26094pt x 709.90219pt>
+File: Images/CTScanQualitativeImage2.png Graphic file (type png)
+<use Images/CTScanQualitativeImage2.png>
+Package pdftex.def Info: Images/CTScanQualitativeImage2.png  used on input line
+ 40.
+(pdftex.def)             Requested size: 323.6079pt x 426.80034pt.
+
+LaTeX Warning: Citation 'litReviewDeepLearningCovid19' on page 14 undefined on 
+input line 41.
+
+
+LaTeX Warning: Citation 'litReviewDeepLearningCovid19' on page 14 undefined on 
+input line 41.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\OT1/cmr/m/n/10.95 Figure 2.4: |Ex-am-ples of CT qual-i-ta-tive im-ages in-fe
+c-tion
+ []
+
+[14] [15 <./Images/CTScanQualitativeImage1.png>]
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 16 undefined on input line 5
+1.
+
+<Images/lstmDiagram.png, id=225, 1337.74782pt x 1321.18594pt>
+File: Images/lstmDiagram.png Graphic file (type png)
+<use Images/lstmDiagram.png>
+Package pdftex.def Info: Images/lstmDiagram.png  used on input line 55.
+(pdftex.def)             Requested size: 288.07965pt x 284.5131pt.
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 16 undefined on input line 5
+6.
+
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 16 undefined on input line 5
+6.
+
+[16 <./Images/CTScanQualitativeImage2.png>] [17]
+
+LaTeX Warning: Citation 'vanishingExplodingGradients' on page 18 undefined on i
+nput line 60.
+
+
+LaTeX Warning: Citation 'lstmRemembering' on page 18 undefined on input line 60
+.
+
+
+Overfull \hbox (75.73837pt too wide) in paragraph at lines 60--63
+\OT1/cmr/m/n/10.95 RNN units, this helps to solve the van-ish-ing and ex-plod-i
+ng gra-di-ent problem[].
+ []
+
+<Images/performanceOfCNN-LSTMPaper.png, id=238, 242.97174pt x 160.58394pt>
+File: Images/performanceOfCNN-LSTMPaper.png Graphic file (type png)
+<use Images/performanceOfCNN-LSTMPaper.png>
+Package pdftex.def Info: Images/performanceOfCNN-LSTMPaper.png  used on input l
+ine 67.
+(pdftex.def)             Requested size: 443.86646pt x 315.86458pt.
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 18 undefined on input line 6
+8.
+
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 18 undefined on input line 6
+8.
+
+[18 <./Images/lstmDiagram.png>]
+<Images/performanceOfCNNLSTM-LSTMPaper.png, id=247, 242.97174pt x 160.58394pt>
+File: Images/performanceOfCNNLSTM-LSTMPaper.png Graphic file (type png)
+<use Images/performanceOfCNNLSTM-LSTMPaper.png>
+Package pdftex.def Info: Images/performanceOfCNNLSTM-LSTMPaper.png  used on inp
+ut line 93.
+(pdftex.def)             Requested size: 443.86646pt x 315.86458pt.
+
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 19 undefined on input line 9
+4.
+
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 19 undefined on input line 9
+4.
+
+[19 <./Images/performanceOfCNN-LSTMPaper.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
+ []
+
+[20 <./Images/performanceOfCNNLSTM-LSTMPaper.png>]
+
+LaTeX Warning: Citation 'litReviewCnnLstm' on page 21 undefined on input line 1
+21.
+
+
+Overfull \hbox (3.91794pt too wide) in paragraph at lines 124--124
+[]\OT1/cmr/bx/n/14.4 Research into Data Aug-men-ta-tion And Con-vo-lu-tional Ne
+u-
+ []
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 21 undefined on 
+input line 127.
+
+
+LaTeX Warning: Citation 'litReviewSmote' on page 21 undefined on input line 127
+.
+
+
+LaTeX Warning: Citation 'litReviewAdasyn' on page 21 undefined on input line 12
+7.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 21 undefined on 
+input line 129.
+
+<Images/SMOTE.png, id=260, 602.25pt x 688.82344pt>
+File: Images/SMOTE.png Graphic file (type png)
+<use Images/SMOTE.png>
+Package pdftex.def Info: Images/SMOTE.png  used on input line 133.
+(pdftex.def)             Requested size: 248.76201pt x 284.52156pt.
+
+LaTeX Warning: Citation 'litReviewSmote' on page 21 undefined on input line 134
+.
+
+
+LaTeX Warning: Citation 'litReviewSmote' on page 21 undefined on input line 134
+.
+
+[21] [22] [23 <./Images/SMOTE.png>]
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 24 undefined on 
+input line 153.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 24 undefined on 
+input line 171.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 24 undefined on 
+input line 171.
+
+<Images/Experiment1GanDataAugmentation.png, id=279, 978.65625pt x 451.6875pt>
+File: Images/Experiment1GanDataAugmentation.png Graphic file (type png)
+<use Images/Experiment1GanDataAugmentation.png>
+Package pdftex.def Info: Images/Experiment1GanDataAugmentation.png  used on inp
+ut line 184.
+(pdftex.def)             Requested size: 443.87065pt x 204.86337pt.
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 24 undefined on 
+input line 185.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 24 undefined on 
+input line 185.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\OT1/cmr/m/n/10.95 Figure 2.9: |Re-sults from Ex-per-i-ment One (Data Aug-men
+-ta-tion Us-ing
+ []
+
+[24{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 25 undefined on 
+input line 207.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 25 undefined on 
+input line 207.
+
+[25 <./Images/Experiment1GanDataAugmentation.png>]
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 26 undefined on 
+input line 229.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 26 undefined on 
+input line 229.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--231
+
+ []
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 26 undefined on 
+input line 254.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 26 undefined on 
+input line 254.
+
+[26]
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 27 undefined on 
+input line 276.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 27 undefined on 
+input line 276.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 27 undefined on input line 28
+7.
+
+
+LaTeX Warning: Citation 'litReviewGanDataAugmentation' on page 27 undefined on 
+input line 287.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 27 undefined on input line 28
+9.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 27 undefined on input line 28
+9.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 27 undefined on input line 31
+3.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 27 undefined on input line 31
+3.
+
+[27] [28]
+<Images/lycheeGANSetup.PNG, id=313, 627.84563pt x 357.58594pt>
+File: Images/lycheeGANSetup.PNG Graphic file (type png)
+<use Images/lycheeGANSetup.PNG>
+Package pdftex.def Info: Images/lycheeGANSetup.PNG  used on input line 320.
+(pdftex.def)             Requested size: 443.85748pt x 252.79652pt.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 29 undefined on input line 32
+1.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 29 undefined on input line 32
+1.
+
+[29]
+
+LaTeX Warning: Citation 'litReviewLychee' on page 30 undefined on input line 32
+7.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 30 undefined on input line 32
+7.
+
+
+LaTeX Warning: Citation 'litReviewTransGanResults' on page 30 undefined on inpu
+t line 327.
+
+<Images/TransGan Figure.PNG, id=321, 626.34pt x 350.81062pt>
+File: Images/TransGan Figure.PNG Graphic file (type png)
+<use Images/TransGan Figure.PNG>
+Package pdftex.def Info: Images/TransGan Figure.PNG  used on input line 331.
+(pdftex.def)             Requested size: 443.87303pt x 248.61157pt.
+
+LaTeX Warning: Citation 'litReviewLychee' on page 30 undefined on input line 33
+2.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 30 undefined on input line 33
+2.
+
+[30 <./Images/LycheeGANSetup.PNG>]
+<Images/SSD-MobileNet V2 Architecture.PNG, id=328, 636.87938pt x 229.60782pt>
+File: Images/SSD-MobileNet V2 Architecture.PNG Graphic file (type png)
+<use Images/SSD-MobileNet V2 Architecture.PNG>
+Package pdftex.def Info: Images/SSD-MobileNet V2 Architecture.PNG  used on inpu
+t line 341.
+(pdftex.def)             Requested size: 443.8592pt x 160.02016pt.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 31 undefined on input line 34
+2.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 31 undefined on input line 34
+2.
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 342--342
+[]\OT1/cmr/m/n/10.95 Figure 2.12: |Fig-ure of SSD-MobileNet V2 Ar-chi-tec-ture 
+(ly-chee Sur-face De-fect
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 342--342
+\OT1/cmr/m/n/10.95 De-tec-tion Based on Deep Con-vo-lu-tional Neu-ral Net-works
+ with GAN-Based Data
+ []
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 31 undefined on input line 34
+6.
+
+<Images/FasterRCNN.PNG, id=330, 619.56468pt x 188.95593pt>
+File: Images/FasterRCNN.PNG Graphic file (type png)
+<use Images/FasterRCNN.PNG>
+Package pdftex.def Info: Images/FasterRCNN.PNG  used on input line 349.
+(pdftex.def)             Requested size: 443.85513pt x 135.3677pt.
+
+LaTeX Warning: Citation 'litReviewLychee' on page 31 undefined on input line 35
+0.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 31 undefined on input line 35
+0.
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 350--350
+[]\OT1/cmr/m/n/10.95 Figure 2.13: |Fig-ure of Faster RCNN Ar-chi-tec-ture (ly-c
+hee Sur-face De-fect De-
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 350--350
+\OT1/cmr/m/n/10.95 tec-tion Based on Deep Con-vo-lu-tional Neu-ral Net-works wi
+th GAN-Based Data
+ []
+
+[31 <./Images/TransGan Figure.PNG> <./Images/SSD-MobileNet V2 Architecture.PNG>
+]
+
+LaTeX Warning: Citation 'litReviewRCNN' on page 32 undefined on input line 354.
+
+
+
+LaTeX Warning: Citation 'litReviewRCNN' on page 32 undefined on input line 354.
+
+
+<Images/FasterRCNNResBlockInceptionModule.PNG, id=340, 647.41875pt x 317.68687p
+t>
+File: Images/FasterRCNNResBlockInceptionModule.PNG Graphic file (type png)
+<use Images/FasterRCNNResBlockInceptionModule.PNG>
+Package pdftex.def Info: Images/FasterRCNNResBlockInceptionModule.PNG  used on 
+input line 357.
+(pdftex.def)             Requested size: 443.86444pt x 217.80324pt.
+
+LaTeX Warning: Citation 'litReviewLychee' on page 32 undefined on input line 35
+8.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 32 undefined on input line 35
+8.
+
+[32 <./Images/FasterRCNN.PNG>]
+
+LaTeX Warning: Citation 'litReviewLychee' on page 33 undefined on input line 36
+2.
+
+
+LaTeX Warning: Reference `fig:Figure of Faster RCNN Res Block and Inception Mod
+ule (lychee Surface Defect Detection Based on Deep Convolutional Neural Network
+s with GAN-Based Data Augmentation)' on page 33 undefined on input line 362.
+
+[33 <./Images/FasterRCNNResBlockInceptionModule.PNG>]
+
+LaTeX Warning: Reference `tab:Results of models before Augmentation Lychee' on 
+page 34 undefined on input line 382.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 39
+6.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 39
+6.
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 396--396
+[]\OT1/cmr/m/n/10.95 Table 2.9: |Re-sults of mod-els be-fore Aug-men-ta-tion(ly
+chee Sur-face De-fect De-
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 396--396
+\OT1/cmr/m/n/10.95 tec-tion Based on Deep Con-vo-lu-tional Neu-ral Net-works wi
+th GAN-Based Data
+ []
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 41
+3.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 41
+3.
+
+
+LaTeX Warning: Reference `tab:Improvement of model accuracy after Augmentation 
+Lychee' on page 34 undefined on input line 416.
+
+
+LaTeX Warning: Reference `tab: Mean average precision before Augmentation Lyche
+e' on page 34 undefined on input line 416.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 43
+0.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 34 undefined on input line 43
+0.
+
+
+Underfull \hbox (badness 5878) in paragraph at lines 430--430
+[]\OT1/cmr/m/n/10.95 Table 2.11: |Mean av-er-age pre-ci-sion be-fore Aug-men-ta
+-tion(lychee Sur-face De-fect
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 430--430
+\OT1/cmr/m/n/10.95 De-tec-tion Based on Deep Con-vo-lu-tional Neu-ral Net-works
+ with GAN-Based Data
+ []
+
+[34]
+
+LaTeX Warning: Reference `tab: Mean average precision after Augmentation Lychee
+' on page 35 undefined on input line 433.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 35 undefined on input line 44
+7.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 35 undefined on input line 44
+7.
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 447--447
+[]\OT1/cmr/m/n/10.95 Table 2.12: |Mean av-er-age pre-ci-sion af-ter Aug-men-ta-
+tion(lychee Sur-face De-fect De-
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 447--447
+\OT1/cmr/m/n/10.95 tec-tion Based on Deep Con-vo-lu-tional Neu-ral Net-works wi
+th GAN-Based Data
+ []
+
+<Images/MeanAvgPrecisionlychee.png, id=359, 327.8649pt x 489.62926pt>
+File: Images/MeanAvgPrecisionlychee.png Graphic file (type png)
+<use Images/MeanAvgPrecisionlychee.png>
+Package pdftex.def Info: Images/MeanAvgPrecisionlychee.png  used on input line 
+454.
+(pdftex.def)             Requested size: 285.78546pt x 426.78836pt.
+
+LaTeX Warning: Citation 'litReviewLychee' on page 35 undefined on input line 45
+5.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 35 undefined on input line 45
+5.
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 455--455
+[]\OT1/cmr/m/n/10.95 Figure 2.15: |Fig-ure of Mean Av-er-age Pre-ci-sion of Mod
+-els. (ly-chee Sur-face De-
+ []
+
+[35]
+<Images/AnalysisofModelSpeedlychee.png, id=367, 352.07535pt x 114.6684pt>
+File: Images/AnalysisofModelSpeedlychee.png Graphic file (type png)
+<use Images/AnalysisofModelSpeedlychee.png>
+Package pdftex.def Info: Images/AnalysisofModelSpeedlychee.png  used on input l
+ine 461.
+(pdftex.def)             Requested size: 443.87514pt x 144.56691pt.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 36 undefined on input line 46
+2.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 36 undefined on input line 46
+2.
+
+[36 <./Images/MeanAvgPrecisionLychee.png>]
+
+LaTeX Warning: Citation 'litReviewLychee' on page 37 undefined on input line 49
+0.
+
+
+LaTeX Warning: Citation 'litReviewLychee' on page 37 undefined on input line 49
+0.
+
+
+LaTeX Warning: Reference `tab:Comparison of accuracy of base models vs models w
+ith data augmentation(lychee Surface Defect Detection Based on Deep Convolution
+al Neural Networks with GAN-Based Data Augmentation)' on page 37 undefined on i
+nput line 493.
+
+) [37 <./Images/AnalysisofModelSpeedLychee.png>] [38]
+\openout2 = `"Chapter 3 Design & Implementation.aux"'.
+
+
+(./Chapter 3 Design & Implementation.tex
+Chapter 3.
+
+LaTeX Warning: Citation 'keras' on page 39 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'tensorflow' on page 39 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'amdLimitations' on page 39 undefined on input line 5.
+
+
+Overfull \hbox (19.04741pt too wide) in paragraph at lines 3--8
+\OT1/cmr/m/n/10.95 For the pur-pose of re-pro-ducible re-sults, we in-cluded th
+e fol-low-ing lines of code \OT1/cmtt/m/n/10.95 np.random.seed(9)
+ []
+
+[39
+
+
+
+
+]
+
+LaTeX Warning: Citation 'imageClassificationKeras' on page 40 undefined on inpu
+t line 11.
+
+
+LaTeX Warning: Reference `tab: X-ray COVID-19 dataset CNN baseline model archit
+ecture' on page 40 undefined on input line 15.
+
+[40]
+
+LaTeX Warning: Citation 'swishAndRelu' on page 41 undefined on input line 42.
+
+<Images/Swish ReLU activations.PNG, id=397, 853.1875pt x 259.97125pt>
+File: Images/Swish ReLU activations.PNG Graphic file (type png)
+<use Images/Swish ReLU activations.PNG>
+Package pdftex.def Info: Images/Swish ReLU activations.PNG  used on input line 
+45.
+(pdftex.def)             Requested size: 443.86836pt x 135.2493pt.
+
+LaTeX Warning: Citation 'swishReluDiagram' on page 41 undefined on input line 4
+6.
+
+
+LaTeX Warning: Citation 'swishReluDiagram' on page 41 undefined on input line 4
+6.
+
+<Images/X-ray COVID-19 dataset CNN Train and Val Acc.png, id=398, 373.395pt x 2
+64.99pt>
+File: Images/X-ray COVID-19 dataset CNN Train and Val Acc.png Graphic file (typ
+e png)
+<use Images/X-ray COVID-19 dataset CNN Train and Val Acc.png>
+Package pdftex.def Info: Images/X-ray COVID-19 dataset CNN Train and Val Acc.pn
+g  used on input line 92.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[41 <./Images/Swish ReLU activations.png>]
+<Images/X-ray COVID-19 dataset CNN Train and Val Loss.png, id=408, 373.395pt x 
+264.99pt>
+File: Images/X-ray COVID-19 dataset CNN Train and Val Loss.png Graphic file (ty
+pe png)
+<use Images/X-ray COVID-19 dataset CNN Train and Val Loss.png>
+Package pdftex.def Info: Images/X-ray COVID-19 dataset CNN Train and Val Loss.p
+ng  used on input line 98.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `tab:X-ray COVID-19 dataset CNN baseline model results
+' on page 42 undefined on input line 102.
+
+[42 <./Images/X-ray COVID-19 dataset CNN Train and Val Acc.png> <./Images/X-ray
+ COVID-19 dataset CNN Train and Val Loss.png>]
+<Images/RadiographyCNNBaselineTrainAndValAcc.png, id=418, 379.4175pt x 264.99pt
+>
+File: Images/RadiographyCNNBaselineTrainAndValAcc.png Graphic file (type png)
+<use Images/RadiographyCNNBaselineTrainAndValAcc.png>
+Package pdftex.def Info: Images/RadiographyCNNBaselineTrainAndValAcc.png  used 
+on input line 175.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/RadiographyCNNBaselineTrainAndValLoss.png, id=419, 373.395pt x 264.99pt
+>
+File: Images/RadiographyCNNBaselineTrainAndValLoss.png Graphic file (type png)
+<use Images/RadiographyCNNBaselineTrainAndValLoss.png>
+Package pdftex.def Info: Images/RadiographyCNNBaselineTrainAndValLoss.png  used
+ on input line 181.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+ [43]
+
+LaTeX Warning: Reference `tab:Radiography CNN baseline results' on page 44 unde
+fined on input line 185.
+
+[44 <./Images/RadiographyCNNBaselineTrainAndValAcc.png> <./Images/RadiographyCN
+NBaselineTrainAndValLoss.png>]
+<Images/ChestXrayCNNBaselineTrainAndValAcc.png, id=435, 373.395pt x 264.99pt>
+File: Images/ChestXrayCNNBaselineTrainAndValAcc.png Graphic file (type png)
+<use Images/ChestXrayCNNBaselineTrainAndValAcc.png>
+Package pdftex.def Info: Images/ChestXrayCNNBaselineTrainAndValAcc.png  used on
+ input line 254.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/ChestXrayCNNBaselineTrainAndValLoss.png, id=436, 363.3575pt x 264.99pt>
+
+File: Images/ChestXrayCNNBaselineTrainAndValLoss.png Graphic file (type png)
+<use Images/ChestXrayCNNBaselineTrainAndValLoss.png>
+Package pdftex.def Info: Images/ChestXrayCNNBaselineTrainAndValLoss.png  used o
+n input line 260.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+ [45 <./Images/ChestXrayCNNBaselineTrainAndValAcc.png>]
+
+LaTeX Warning: Reference `tab:COVID-19 chest X-ray CNN baseline model results' 
+on page 46 undefined on input line 264.
+
+
+LaTeX Warning: Reference `tab:Extensive COVID-19 CT Dataset CNN Baseline Model 
+Architecture' on page 46 undefined on input line 268.
+
+[46 <./Images/ChestXrayCNNBaselineTrainAndValLoss.png>]
+<Images/ExtensiveCNNBaselineModelExtensiveCovidAccCT.png, id=455, 379.4175pt x 
+264.99pt>
+File: Images/ExtensiveCNNBaselineModelExtensiveCovidAccCT.png Graphic file (typ
+e png)
+<use Images/ExtensiveCNNBaselineModelExtensiveCovidAccCT.png>
+Package pdftex.def Info: Images/ExtensiveCNNBaselineModelExtensiveCovidAccCT.pn
+g  used on input line 338.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/ExtensiveCNNBaselineModelExtensiveCovidLossCT.png, id=456, 373.395pt x 
+264.99pt>
+File: Images/ExtensiveCNNBaselineModelExtensiveCovidLossCT.png Graphic file (ty
+pe png)
+<use Images/ExtensiveCNNBaselineModelExtensiveCovidLossCT.png>
+Package pdftex.def Info: Images/ExtensiveCNNBaselineModelExtensiveCovidLossCT.p
+ng  used on input line 344.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `tab:Extensive COVID-19 X-Ray CNN Baseline Model Archi
+tecture' on page 47 undefined on input line 348.
+
+[47 <./Images/ExtensiveCNNBaselineModelExtensiveCovidAccCT.png> <./Images/Exten
+siveCNNBaselineModelExtensiveCovidLossCT.png>]
+<Images/ExtensiveCOVID19XRayCNNBaselineModelAcc.png, id=467, 373.395pt x 264.99
+pt>
+File: Images/ExtensiveCOVID19XRayCNNBaselineModelAcc.png Graphic file (type png
+)
+<use Images/ExtensiveCOVID19XRayCNNBaselineModelAcc.png>
+Package pdftex.def Info: Images/ExtensiveCOVID19XRayCNNBaselineModelAcc.png  us
+ed on input line 418.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/ExtensiveCOVID19XRayCNNBaselineModelLoss.png, id=468, 373.395pt x 264.9
+9pt>
+File: Images/ExtensiveCOVID19XRayCNNBaselineModelLoss.png Graphic file (type pn
+g)
+<use Images/ExtensiveCOVID19XRayCNNBaselineModelLoss.png>
+Package pdftex.def Info: Images/ExtensiveCOVID19XRayCNNBaselineModelLoss.png  u
+sed on input line 424.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+ [48 <./Images/ExtensiveCOVID19XRayCNNBaselineModelAcc.png>]
+
+LaTeX Warning: Citation 'pretrainedModelsKeras' on page 49 undefined on input l
+ine 429.
+
+
+LaTeX Warning: Citation 'imageNet' on page 49 undefined on input line 431.
+
+
+LaTeX Warning: Reference `fig:Transfer Learning Xception CNN Baseline Train and
+ Validation Accuracy Radiography' on page 49 undefined on input line 434.
+
+
+LaTeX Warning: Reference `fig:Transfer Learning Xception CNN Baseline Train and
+ Validation Loss Radiography' on page 49 undefined on input line 434.
+
+<Images/XceptionBaselineTrainingValidationAccRadiography.png, id=478, 379.4175p
+t x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccRadiography.png Graphic file 
+(type png)
+<use Images/XceptionBaselineTrainingValidationAccRadiography.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccRadiograph
+y.png  used on input line 437.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[49 <./Images/ExtensiveCOVID19XRayCNNBaselineModelLoss.png>]
+<Images/XceptionBaselineTrainingValidationLossRadiography.png, id=488, 379.4175
+pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossRadiography.png Graphic file
+ (type png)
+<use Images/XceptionBaselineTrainingValidationLossRadiography.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossRadiograp
+hy.png  used on input line 442.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Transfer Learning ResNet50V2 CNN Baseline Train a
+nd Validation Accuracy Radiography' on page 50 undefined on input line 447.
+
+
+LaTeX Warning: Reference `fig:Transfer Learning ResNet50V2 CNN Baseline Train a
+nd Validation Loss Radiography' on page 50 undefined on input line 447.
+
+<Images/ResNet50V2BaselineTrainingValidationAccRadiography.png, id=489, 373.395
+pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccRadiography.png Graphic fil
+e (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccRadiography.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccRadiogra
+phy.png  used on input line 450.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossRadiography.png, id=490, 363.35
+75pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossRadiography.png Graphic fi
+le (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossRadiography.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossRadiogr
+aphy.png  used on input line 456.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+[50 <./Images/XceptionBaselineTrainingValidationAccRadiography.png> <./Images/X
+ceptionBaselineTrainingValidationLossRadiography.png>]
+
+LaTeX Warning: Reference `fig:Transfer Learning EfficientNetV2S CNN Baseline Tr
+ain and Validation Accuracy Radiography' on page 51 undefined on input line 462
+.
+
+
+LaTeX Warning: Reference `fig:Transfer Learning EfficientNetV2S CNN Baseline Tr
+ain and Validation Loss Radiography' on page 51 undefined on input line 462.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccRadiography.png, id=500, 37
+9.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccRadiography.png Graphi
+c file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccRadiography.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccRad
+iography.png  used on input line 465.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[51 <./Images/ResNet50V2BaselineTrainingValidationAccRadiography.png> <./Images
+/ResNet50V2BaselineTrainingValidationLossRadiography.png>]
+<Images/EfficientNetV2SBaselineTrainingValidationLossRadiography.png, id=510, 3
+85.44pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossRadiography.png Graph
+ic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossRadiography.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossRa
+diography.png  used on input line 471.
+(pdftex.def)             Requested size: 206.92882pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Accura
+cy X-Ray COVID19' on page 52 undefined on input line 478.
+
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Loss X
+-Ray COVID19' on page 52 undefined on input line 478.
+
+<Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19.png, id=511, 373.
+395pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19.png Graphic 
+file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyXRayC
+OVID19.png  used on input line 481.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/XceptionBaselineTrainingValidationLossXRayCOVID19.png, id=512, 376.4062
+5pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossXRayCOVID19.png Graphic file
+ (type png)
+<use Images/XceptionBaselineTrainingValidationLossXRayCOVID19.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossXRayCOVID
+19.png  used on input line 487.
+(pdftex.def)             Requested size: 202.07892pt x 142.26357pt.
+[52 <./Images/EfficientNetV2SBaselineTrainingValidationAccRadiography.png> <./I
+mages/EfficientNetV2SBaselineTrainingValidationLossRadiography.png>]
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Accu
+racy X-Ray COVID19' on page 53 undefined on input line 492.
+
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Loss
+ X-Ray COVID19' on page 53 undefined on input line 492.
+
+<Images/ResNet50V2BaselineTrainingValidationAccuracyXRayCOVID19.png, id=523, 37
+3.395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyXRayCOVID19.png Graphi
+c file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyXRayCOVID19.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyXRa
+yCOVID19.png  used on input line 495.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19.png, id=524, 373.39
+5pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19.png Graphic fi
+le (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossXRayCOV
+ID19.png  used on input line 501.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[53 <./Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19.png> <./Ima
+ges/XceptionBaselineTrainingValidationLossXRayCOVID19.png>]
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Accuracy X-Ray COVID19' on page 54 undefined on input line 506.
+
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Loss X-Ray COVID19' on page 54 undefined on input line 506.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccuracyXRayCOVID19.png, id=53
+5, 373.395pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccuracyXRayCOVID19.png G
+raphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccuracyXRayCOVID19.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccura
+cyXRayCOVID19.png  used on input line 509.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png, id=536, 3
+79.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png Graph
+ic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossXR
+ayCOVID19.png  used on input line 515.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[54 <./Images/ResNet50V2BaselineTrainingValidationAccuracyXRayCOVID19.png> <./I
+mages/ResNet50V2BaselineTrainingValidationLossXRayCOVID19.png>]
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Accura
+cy Chest X-Ray' on page 55 undefined on input line 523.
+
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Loss C
+hest X-Ray' on page 55 undefined on input line 523.
+
+<Images/XceptionBaselineTrainingValidationAccuracyChestX-Ray.png, id=546, 379.4
+175pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyChestX-Ray.png Graphic f
+ile (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyChestX-Ray.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyChest
+X-Ray.png  used on input line 526.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[55 <./Images/EfficientNetV2SBaselineTrainingValidationAccuracyXRayCOVID19.png>
+ <./Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png>]
+<Images/XceptionBaselineTrainingValidationLossChestX-Ray.png, id=558, 379.4175p
+t x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossChestX-Ray.png Graphic file 
+(type png)
+<use Images/XceptionBaselineTrainingValidationLossChestX-Ray.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossChestX-Ra
+y.png  used on input line 532.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Accu
+racy Chest X-Ray' on page 56 undefined on input line 537.
+
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Loss
+ Chest X-Ray' on page 56 undefined on input line 537.
+
+<Images/ResNet50V2BaselineTrainingValidationAccuracyChestX-Ray.png, id=559, 379
+.4175pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyChestX-Ray.png Graphic
+ file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyChestX-Ray.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyChe
+stX-Ray.png  used on input line 540.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossChestX-Ray.png, id=560, 388.451
+25pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossChestX-Ray.png Graphic fil
+e (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossChestX-Ray.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossChestX-
+Ray.png  used on input line 546.
+(pdftex.def)             Requested size: 208.54544pt x 142.26357pt.
+[56 <./Images/XceptionBaselineTrainingValidationAccuracyChestX-Ray.png> <./Imag
+es/XceptionBaselineTrainingValidationLossChestX-Ray.png>]
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Accuracy Chest X-Ray' on page 57 undefined on input line 551.
+
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Loss Chest X-Ray' on page 57 undefined on input line 551.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccuracyChestX-Ray.png, id=570
+, 379.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccuracyChestX-Ray.png Gr
+aphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccuracyChestX-Ray.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccura
+cyChestX-Ray.png  used on input line 554.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+File: Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png Graph
+ic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossXR
+ayCOVID19.png  used on input line 560.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[57 <./Images/ResNet50V2BaselineTrainingValidationAccuracyChestX-Ray.png> <./Im
+ages/ResNet50V2BaselineTrainingValidationLossChestX-Ray.png>]
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Accura
+cy Extensive COVID 19 Dataset CT' on page 58 undefined on input line 566.
+
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Loss E
+xtensive COVID 19 Dataset CT' on page 58 undefined on input line 566.
+
+<Images/XceptionBaselineTrainingValidationAccuracyExtensiveCT.png, id=580, 379.
+4175pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyExtensiveCT.png Graphic 
+file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyExtensiveCT.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyExten
+siveCT.png  used on input line 569.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/XceptionBaselineTrainingValidationLossExtensiveCT.png, id=581, 373.395p
+t x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossExtensiveCT.png Graphic file
+ (type png)
+<use Images/XceptionBaselineTrainingValidationLossExtensiveCT.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossExtensive
+CT.png  used on input line 575.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[58 <./Images/EfficientNetV2SBaselineTrainingValidationAccuracyChestX-Ray.png>]
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Accu
+racy Extensive COVID 19 Dataset CT' on page 59 undefined on input line 580.
+
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Accu
+racy Extensive COVID 19 Dataset CT' on page 59 undefined on input line 580.
+
+<Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCT.png, id=591, 37
+3.395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCT.png Graphi
+c file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCT.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyExt
+ensiveCT.png  used on input line 583.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossExtensiveCT.png, id=592, 376.40
+625pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossExtensiveCT.png Graphic fi
+le (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossExtensiveCT.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossExtensi
+veCT.png  used on input line 588.
+(pdftex.def)             Requested size: 202.07892pt x 142.26357pt.
+[59 <./Images/XceptionBaselineTrainingValidationAccuracyExtensiveCT.png> <./Ima
+ges/XceptionBaselineTrainingValidationLossExtensiveCT.png>]
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Accuracy Extensive COVID 19 Dataset CT' on page 60 undefined on input line 593
+.
+
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Accuracy Extensive COVID 19 Dataset CT' on page 60 undefined on input line 593
+.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png, id=60
+3, 385.44pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png G
+raphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccura
+cyExtensiveCT.png  used on input line 595.
+(pdftex.def)             Requested size: 206.92882pt x 142.26357pt.
+<Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png, id=604, 3
+73.395pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png Graph
+ic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossEx
+tensiveCT.png  used on input line 601.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[60 <./Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCT.png> <./I
+mages/ResNet50V2BaselineTrainingValidationLossExtensiveCT.png>]
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Accura
+cy Extensive COVID 19 Dataset X-ray' on page 61 undefined on input line 608.
+
+
+LaTeX Warning: Reference `fig:Xception CNN Baseline Train and Validation Accura
+cy Extensive COVID 19 Dataset X-ray' on page 61 undefined on input line 608.
+
+<Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png, id=614, 37
+9.4175pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png Graphi
+c file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyExten
+siveXray.png  used on input line 611.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+File: Images/XceptionBaselineTrainingValidationLossExtensiveCT.png Graphic file
+ (type png)
+<use Images/XceptionBaselineTrainingValidationLossExtensiveCT.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossExtensive
+CT.png  used on input line 617.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[61 <./Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png>
+ <./Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png>]
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Accu
+racy Extensive COVID 19 Dataset X-ray' on page 62 undefined on input line 622.
+
+
+LaTeX Warning: Reference `fig:ResNet50V2 CNN Baseline Train and Validation Loss
+ Extensive COVID 19 Dataset X-ray' on page 62 undefined on input line 622.
+
+<Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png, id=626, 
+379.4175pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png Grap
+hic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyExt
+ensiveXray.png  used on input line 625.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossExtensiveXray.png, id=627, 373.
+395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossExtensiveXray.png Graphic 
+file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossExtensiveXray.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossExtensi
+veXray.png  used on input line 630.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[62 <./Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png>]
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Accuracy Extensive COVID 19 Dataset Xray' on page 63 undefined on input line 6
+35.
+
+
+LaTeX Warning: Reference `fig:EfficientNetV2S CNN Baseline Train and Validation
+ Loss Extensive COVID 19 Dataset X-ray' on page 63 undefined on input line 635.
+
+
+File: Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png G
+raphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveCT.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccura
+cyExtensiveCT.png  used on input line 637.
+(pdftex.def)             Requested size: 206.92882pt x 142.26357pt.
+<Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXray.png, id=636,
+ 385.44pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXray.png Gra
+phic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXray.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossEx
+tensiveXray.png  used on input line 643.
+(pdftex.def)             Requested size: 206.92882pt x 142.26357pt.
+[63 <./Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png> <.
+/Images/ResNet50V2BaselineTrainingValidationLossExtensiveXray.png>] [64 <./Imag
+es/EfficientNetV2SBaselineTrainingValidationLossExtensiveXray.png>]
+<Images/LatentSpace2VAECOVIDMask30Epochs.png, id=655, 813.0375pt x 807.015pt>
+File: Images/LatentSpace2VAECOVIDMask30Epochs.png Graphic file (type png)
+<use Images/LatentSpace2VAECOVIDMask30Epochs.png>
+Package pdftex.def Info: Images/LatentSpace2VAECOVIDMask30Epochs.png  used on i
+nput line 656.
+(pdftex.def)             Requested size: 143.32579pt x 142.26411pt.
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -S default -f latex -P commandprefix=PYG > _minted-Main/de
+fault.pygstyle)...disabled (restricted).
+
+
+
+! Package catchfile Error: File `_minted-Main/default.pygstyle' not found.
+
+See the catchfile package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702 \end{minted}
+                  
+? 
+runsystem(pygmentize -S default -f latex -P commandprefix=PYG > _minted-Main/de
+fault.pygstyle)...disabled (restricted).
+
+
+! Package catchfile Error: File `_minted-Main/default.pygstyle' not found.
+
+See the catchfile package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702 \end{minted}
+                  
+? 
+
+! Package minted Error: Cannot find Pygments style default.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702 \end{minted}
+                  
+? 
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/74FD67B3F08C92AD534FA3B72DDA744CF8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702 \end{minted}
+                  
+? 
+
+LaTeX Warning: Citation 'DCGANKerasTutorial' on page 65 undefined on input line
+ 703.
+
+[65 <./Images/LatentSpace2VAECOVIDMask30Epochs.png>] [66]
+
+LaTeX Warning: Citation 'nvidiaResearch' on page 67 undefined on input line 760
+.
+
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/1E0BF2BBD3D0F079C5B2B840131598ADF8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.802 \end{minted}
+                  
+? 
+[67] [68]
+<Images/LatentSpaceExtensiveCOVIDXRay.png, id=687, 889.6437pt x 880.2486pt>
+File: Images/LatentSpaceExtensiveCOVIDXRay.png Graphic file (type png)
+<use Images/LatentSpaceExtensiveCOVIDXRay.png>
+Package pdftex.def Info: Images/LatentSpaceExtensiveCOVIDXRay.png  used on inpu
+t line 836.
+(pdftex.def)             Requested size: 143.77126pt x 142.25296pt.
+<Images/LatentSpaceExtensiveNonCovidCT.png, id=688, 889.6437pt x 880.2486pt>
+File: Images/LatentSpaceExtensiveNonCovidCT.png Graphic file (type png)
+<use Images/LatentSpaceExtensiveNonCovidCT.png>
+Package pdftex.def Info: Images/LatentSpaceExtensiveNonCovidCT.png  used on inp
+ut line 842.
+(pdftex.def)             Requested size: 143.77126pt x 142.25296pt.
+ [69 <./Images/LatentSpaceExtensiveCOVIDXRay.PNG>]
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/E15E1ECE1416185A0EB0777F6F70F382F8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.887 \end{minted}
+                  
+? 
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/551383600B2B117E886DD27B6FB9C757F8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.947 \end{minted}
+                  
+? 
+[70 <./Images/LatentSpaceExtensiveNonCovidCT.PNG>]
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/5A46D04CD0F0ED22772668360A0CAF0AF8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.989 \end{minted}
+                  
+? 
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/8701661963368C85A6AFD47A929C6EC7F8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1057 \end{minted}
+                   
+? 
+[71]) [72]
+\openout2 = `"Chapter 4 Results.aux"'.
+
+ (./Chapter 4 Results.tex
+Chapter 4.
+<Images/RadiographyCNNBaselineTrainAndValAccAugmentedDCGAN.png, id=720, 379.417
+5pt x 264.99pt>
+File: Images/RadiographyCNNBaselineTrainAndValAccAugmentedDCGAN.png Graphic fil
+e (type png)
+<use Images/RadiographyCNNBaselineTrainAndValAccAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNBaselineTrainAndValAccAugmentedDC
+GAN.png  used on input line 9.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[73
+
+
+
+
+]
+<Images/RadiographyCNNBaselineTrainAndValLossAugmentedDCGAN.png, id=729, 379.41
+75pt x 264.99pt>
+File: Images/RadiographyCNNBaselineTrainAndValLossAugmentedDCGAN.png Graphic fi
+le (type png)
+<use Images/RadiographyCNNBaselineTrainAndValLossAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNBaselineTrainAndValLossAugmentedD
+CGAN.png  used on input line 15.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented Xception Model DCGAN Accura
+cy' on page 74 undefined on input line 20.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented Xception Model DCGAN Loss' 
+on page 74 undefined on input line 20.
+
+<Images/RadiographyCNNXceptionTrainAndValAccAugmentedDCGAN.png, id=730, 379.417
+5pt x 264.99pt>
+File: Images/RadiographyCNNXceptionTrainAndValAccAugmentedDCGAN.png Graphic fil
+e (type png)
+<use Images/RadiographyCNNXceptionTrainAndValAccAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNXceptionTrainAndValAccAugmentedDC
+GAN.png  used on input line 22.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[74 <./Images/RadiographyCNNBaselineTrainAndValAccAugmentedDCGAN.png> <./Images
+/RadiographyCNNBaselineTrainAndValLossAugmentedDCGAN.png>]
+<Images/RadiographyCNNXceptionTrainAndValLossAugmentedDCGAN.png, id=740, 379.41
+75pt x 264.99pt>
+File: Images/RadiographyCNNXceptionTrainAndValLossAugmentedDCGAN.png Graphic fi
+le (type png)
+<use Images/RadiographyCNNXceptionTrainAndValLossAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNXceptionTrainAndValLossAugmentedD
+CGAN.png  used on input line 28.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented ResNet50V2 Model DCGAN Accu
+racy' on page 75 undefined on input line 33.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented ResNet50V2 Model DCGAN Loss
+' on page 75 undefined on input line 33.
+
+<Images/RadiographyCNNResNet50V2TrainAndValAccAugmentedDCGAN.png, id=741, 379.4
+175pt x 264.99pt>
+File: Images/RadiographyCNNResNet50V2TrainAndValAccAugmentedDCGAN.png Graphic f
+ile (type png)
+<use Images/RadiographyCNNResNet50V2TrainAndValAccAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNResNet50V2TrainAndValAccAugmented
+DCGAN.png  used on input line 36.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[75 <./Images/RadiographyCNNXceptionTrainAndValAccAugmentedDCGAN.png> <./Images
+/RadiographyCNNXceptionTrainAndValLossAugmentedDCGAN.png>]
+<Images/RadiographyCNNResNet50V2TrainAndValLossAugmentedDCGAN.png, id=751, 373.
+395pt x 264.99pt>
+File: Images/RadiographyCNNResNet50V2TrainAndValLossAugmentedDCGAN.png Graphic 
+file (type png)
+<use Images/RadiographyCNNResNet50V2TrainAndValLossAugmentedDCGAN.png>
+Package pdftex.def Info: Images/RadiographyCNNResNet50V2TrainAndValLossAugmente
+dDCGAN.png  used on input line 42.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented EfficientNetV2S Model DCGAN
+ Accuracy' on page 76 undefined on input line 47.
+
+
+LaTeX Warning: Reference `fig:Radiography Augmented EfficientNetV2S Model DCGAN
+ Loss' on page 76 undefined on input line 47.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccRadiographyAugmentedDCGAN.p
+ng, id=752, 379.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccRadiographyAugmentedDC
+GAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccRadiographyAugmentedDCG
+AN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccRad
+iographyAugmentedDCGAN.png  used on input line 49.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[76 <./Images/RadiographyCNNResNet50V2TrainAndValAccAugmentedDCGAN.png> <./Imag
+es/RadiographyCNNResNet50V2TrainAndValLossAugmentedDCGAN.png>]
+<Images/EfficientNetV2SBaselineTrainingValidationLossRadiographyAugmentedDCGAN.
+png, id=762, 379.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossRadiographyAugmentedD
+CGAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossRadiographyAugmentedDC
+GAN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossRa
+diographyAugmentedDCGAN.png  used on input line 55.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+ [77 <./Images/EfficientNetV2SBaselineTrainingValidationAccRadiographyAugmented
+DCGAN.png> <./Images/EfficientNetV2SBaselineTrainingValidationLossRadiographyAu
+gmentedDCGAN.png>]
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented Baseline Model DCGAN Accur
+acy' on page 78 undefined on input line 64.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented Baseline Model DCGAN Loss'
+ on page 78 undefined on input line 64.
+
+<Images/ExtensiveCNNBaselineModelExtensiveCovidAccCTAugmentedDCGAN.png, id=774,
+ 379.4175pt x 264.99pt>
+File: Images/ExtensiveCNNBaselineModelExtensiveCovidAccCTAugmentedDCGAN.png Gra
+phic file (type png)
+<use Images/ExtensiveCNNBaselineModelExtensiveCovidAccCTAugmentedDCGAN.png>
+Package pdftex.def Info: Images/ExtensiveCNNBaselineModelExtensiveCovidAccCTAug
+mentedDCGAN.png  used on input line 66.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/ExtensiveCNNBaselineModelExtensiveCovidLossCTAugmentedDCGAN.png, id=775
+, 373.395pt x 264.99pt>
+File: Images/ExtensiveCNNBaselineModelExtensiveCovidLossCTAugmentedDCGAN.png Gr
+aphic file (type png)
+<use Images/ExtensiveCNNBaselineModelExtensiveCovidLossCTAugmentedDCGAN.png>
+Package pdftex.def Info: Images/ExtensiveCNNBaselineModelExtensiveCovidLossCTAu
+gmentedDCGAN.png  used on input line 72.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[78]
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented Xception Model DCGAN Accur
+acy' on page 79 undefined on input line 77.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented Xception Model DCGAN Loss'
+ on page 79 undefined on input line 77.
+
+<Images/XceptionBaselineTrainingValidationAccuracyExtensiveCTAugmentedDCGAN.png
+, id=782, 379.4175pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyExtensiveCTAugmentedDCGA
+N.png Graphic file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyExtensiveCTAugmentedDCGAN
+.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyExten
+siveCTAugmentedDCGAN.png  used on input line 79.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[79 <./Images/ExtensiveCNNBaselineModelExtensiveCovidAccCTAugmentedDCGAN.png> <
+./Images/ExtensiveCNNBaselineModelExtensiveCovidLossCTAugmentedDCGAN.png>]
+<Images/XceptionBaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.png, id
+=792, 363.3575pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.pn
+g Graphic file (type png)
+<use Images/XceptionBaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.png
+>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossExtensive
+CTAugmentedDCGAN.png  used on input line 85.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented ResNet50V2 Model DCGAN Acc
+uracy' on page 80 undefined on input line 90.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented ResNet50V2 Model DCGAN Los
+s' on page 80 undefined on input line 90.
+
+<Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCTAugmentedDCGAN.p
+ng, id=793, 373.395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCTAugmentedDC
+GAN.png Graphic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCTAugmentedDCG
+AN.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyExt
+ensiveCTAugmentedDCGAN.png  used on input line 92.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[80 <./Images/XceptionBaselineTrainingValidationAccuracyExtensiveCTAugmentedDCG
+AN.png> <./Images/XceptionBaselineTrainingValidationLossExtensiveCTAugmentedDCG
+AN.png>]
+<Images/ResNet50V2BaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.png, 
+id=803, 369.38pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.
+png Graphic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossExtensiveCTAugmentedDCGAN.p
+ng>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossExtensi
+veCTAugmentedDCGAN.png  used on input line 98.
+(pdftex.def)             Requested size: 198.30678pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented EfficientNetV2S Model DCGA
+N Accuracy' on page 81 undefined on input line 103.
+
+
+LaTeX Warning: Reference `fig:Extensive CT Augmented EfficientNetV2S Model DCGA
+N Loss' on page 81 undefined on input line 103.
+
+[81 <./Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveCTAugmentedD
+CGAN.png> <./Images/ResNet50V2BaselineTrainingValidationLossExtensiveCTAugmente
+dDCGAN.png>]
+<Images/EfficientNetV2STrainingValidationAccuracyExtensiveCTAugmentedDCGAN.png,
+ id=813, 379.4175pt x 264.99pt>
+File: Images/EfficientNetV2STrainingValidationAccuracyExtensiveCTAugmentedDCGAN
+.png Graphic file (type png)
+<use Images/EfficientNetV2STrainingValidationAccuracyExtensiveCTAugmentedDCGAN.
+png>
+Package pdftex.def Info: Images/EfficientNetV2STrainingValidationAccuracyExtens
+iveCTAugmentedDCGAN.png  used on input line 106.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+File: Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png Graph
+ic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveCT.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossEx
+tensiveCT.png  used on input line 112.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+ [82 <./Images/EfficientNetV2STrainingValidationAccuracyExtensiveCTAugmentedDCG
+AN.png>]
+<Images/BaselineTrainingValidationAccuracyExtensiveXRayAugmentedDCGAN.png, id=8
+22, 373.395pt x 264.99pt>
+File: Images/BaselineTrainingValidationAccuracyExtensiveXRayAugmentedDCGAN.png 
+Graphic file (type png)
+<use Images/BaselineTrainingValidationAccuracyExtensiveXRayAugmentedDCGAN.png>
+Package pdftex.def Info: Images/BaselineTrainingValidationAccuracyExtensiveXRay
+AugmentedDCGAN.png  used on input line 121.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/BaselineTrainingValidationLossExtensiveXRayAugmentedDCGAN.png, id=823, 
+363.3575pt x 264.99pt>
+File: Images/BaselineTrainingValidationLossExtensiveXRayAugmentedDCGAN.png Grap
+hic file (type png)
+<use Images/BaselineTrainingValidationLossExtensiveXRayAugmentedDCGAN.png>
+Package pdftex.def Info: Images/BaselineTrainingValidationLossExtensiveXRayAugm
+entedDCGAN.png  used on input line 127.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+ [83 <./Images/BaselineTrainingValidationAccuracyExtensiveXRayAugmentedDCGAN.pn
+g>]
+
+LaTeX Warning: Reference `fig:Extensive X-ray Augmented Xception Model DCGAN Ac
+curacy' on page 84 undefined on input line 132.
+
+
+LaTeX Warning: Reference `fig:Extensive X-ray Augmented Xception Model DCGAN Lo
+ss' on page 84 undefined on input line 132.
+
+File: Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png Graphi
+c file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyExtensiveXray.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyExten
+siveXray.png  used on input line 134.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/XceptionBaselineTrainingValidationLossExtensiveXray.png, id=832, 373.39
+5pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossExtensiveXray.png Graphic fi
+le (type png)
+<use Images/XceptionBaselineTrainingValidationLossExtensiveXray.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossExtensive
+Xray.png  used on input line 140.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[84 <./Images/BaselineTrainingValidationLossExtensiveXRayAugmentedDCGAN.png>]
+File: Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png Grap
+hic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccuracyExtensiveXray.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccuracyExt
+ensiveXray.png  used on input line 147.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+<Images/ResNet50V2BaselineTrainingValidationLossExtensiveXrayAugmentedDCGAN.png
+, id=840, 373.395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossExtensiveXrayAugmentedDCGA
+N.png Graphic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossExtensiveXrayAugmentedDCGAN
+.png>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossExtensi
+veXrayAugmentedDCGAN.png  used on input line 153.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+
+[85 <./Images/XceptionBaselineTrainingValidationLossExtensiveXray.png>]
+
+LaTeX Warning: Reference `fig:Extensive X-ray Augmented EfficientNetV2S Model D
+CGAN Accuracy' on page 86 undefined on input line 158.
+
+
+LaTeX Warning: Reference `fig:Extensive X-ray Augmented EfficientNetV2S Model D
+CGAN Loss' on page 86 undefined on input line 158.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveXRayAugmented
+DCGAN.png, id=849, 379.4175pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveXRayAugm
+entedDCGAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveXRayAugme
+ntedDCGAN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccura
+cyExtensiveXRayAugmentedDCGAN.png  used on input line 160.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[86 <./Images/ResNet50V2BaselineTrainingValidationLossExtensiveXrayAugmentedDCG
+AN.png>]
+<Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXRayAugmentedDCGA
+N.png, id=858, 385.44pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXRayAugmente
+dDCGAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossExtensiveXRayAugmented
+DCGAN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossEx
+tensiveXRayAugmentedDCGAN.png  used on input line 166.
+(pdftex.def)             Requested size: 206.92882pt x 142.26357pt.
+ [87 <./Images/EfficientNetV2SBaselineTrainingValidationAccuracyExtensiveXRayAu
+gmentedDCGAN.png> <./Images/EfficientNetV2SBaselineTrainingValidationLossExtens
+iveXRayAugmentedDCGAN.png>]
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented Baseline Model DCGAN Acc
+uracy' on page 88 undefined on input line 175.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented Baseline Model DCGAN Los
+s' on page 88 undefined on input line 175.
+
+<Images/X-ray COVID-19 dataset CNN Train and Val Acc Augmented DCGAN.png, id=86
+8, 373.395pt x 264.99pt>
+File: Images/X-ray COVID-19 dataset CNN Train and Val Acc Augmented DCGAN.png G
+raphic file (type png)
+<use Images/X-ray COVID-19 dataset CNN Train and Val Acc Augmented DCGAN.png>
+Package pdftex.def Info: Images/X-ray COVID-19 dataset CNN Train and Val Acc Au
+gmented DCGAN.png  used on input line 177.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+<Images/X-ray COVID-19 dataset CNN Train and Val Loss Augmented DCGAN.png, id=8
+69, 363.3575pt x 264.99pt>
+File: Images/X-ray COVID-19 dataset CNN Train and Val Loss Augmented DCGAN.png 
+Graphic file (type png)
+<use Images/X-ray COVID-19 dataset CNN Train and Val Loss Augmented DCGAN.png>
+Package pdftex.def Info: Images/X-ray COVID-19 dataset CNN Train and Val Loss A
+ugmented DCGAN.png  used on input line 183.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+[88]
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented Xception Model DCGAN Acc
+uracy' on page 89 undefined on input line 189.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented Xception Model DCGAN Los
+s' on page 89 undefined on input line 189.
+
+<Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19AugmentedDCGAN.png
+, id=876, 379.4175pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19AugmentedDCGA
+N.png Graphic file (type png)
+<use Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19AugmentedDCGAN
+.png>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationAccuracyXRayC
+OVID19AugmentedDCGAN.png  used on input line 191.
+(pdftex.def)             Requested size: 203.69556pt x 142.26357pt.
+[89 <./Images/X-ray COVID-19 dataset CNN Train and Val Acc Augmented DCGAN.png>
+ <./Images/X-ray COVID-19 dataset CNN Train and Val Loss Augmented DCGAN.png>]
+<Images/XceptionBaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.png, id
+=887, 363.3575pt x 264.99pt>
+File: Images/XceptionBaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.pn
+g Graphic file (type png)
+<use Images/XceptionBaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.png
+>
+Package pdftex.def Info: Images/XceptionBaselineTrainingValidationLossXRayCOVID
+19AugmentedDCGAN.png  used on input line 197.
+(pdftex.def)             Requested size: 195.07352pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented ResNet50V2 Model DCGAN A
+ccuracy' on page 90 undefined on input line 202.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented ResNet50V2 Model DCGAN L
+oss' on page 90 undefined on input line 202.
+
+<Images/ResNet50V2BaselineTrainingValidationAccXRayCOVID19AugmentedDCGAN.png, i
+d=888, 373.395pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationAccXRayCOVID19AugmentedDCGAN.p
+ng Graphic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationAccXRayCOVID19AugmentedDCGAN.pn
+g>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationAccXRayCOVI
+D19AugmentedDCGAN.png  used on input line 204.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[90 <./Images/XceptionBaselineTrainingValidationAccuracyXRayCOVID19AugmentedDCG
+AN.png> <./Images/XceptionBaselineTrainingValidationLossXRayCOVID19AugmentedDCG
+AN.png>]
+<Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.png, 
+id=898, 376.40625pt x 264.99pt>
+File: Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.
+png Graphic file (type png)
+<use Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.p
+ng>
+Package pdftex.def Info: Images/ResNet50V2BaselineTrainingValidationLossXRayCOV
+ID19AugmentedDCGAN.png  used on input line 210.
+(pdftex.def)             Requested size: 202.07892pt x 142.26357pt.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented EfficientNetV2S Model DC
+GAN Accuracy' on page 91 undefined on input line 215.
+
+
+LaTeX Warning: Reference `fig:X-ray COVID-19 Augmented EfficientNetV2S Model DC
+GAN Loss' on page 91 undefined on input line 215.
+
+<Images/EfficientNetV2SBaselineTrainingValidationAccXRayCOVID19AugmentedDCGAN.p
+ng, id=899, 373.395pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationAccXRayCOVID19AugmentedDC
+GAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationAccXRayCOVID19AugmentedDCG
+AN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationAccXRa
+yCOVID19AugmentedDCGAN.png  used on input line 218.
+(pdftex.def)             Requested size: 200.4623pt x 142.26357pt.
+[91 <./Images/ResNet50V2BaselineTrainingValidationAccXRayCOVID19AugmentedDCGAN.
+png> <./Images/ResNet50V2BaselineTrainingValidationLossXRayCOVID19AugmentedDCGA
+N.png>]
+<Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19AugmentedDCGAN.
+png, id=909, 369.38pt x 264.99pt>
+File: Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19AugmentedD
+CGAN.png Graphic file (type png)
+<use Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19AugmentedDC
+GAN.png>
+Package pdftex.def Info: Images/EfficientNetV2SBaselineTrainingValidationLossXR
+ayCOVID19AugmentedDCGAN.png  used on input line 224.
+(pdftex.def)             Requested size: 198.30678pt x 142.26357pt.
+ [92 <./Images/EfficientNetV2SBaselineTrainingValidationAccXRayCOVID19Augmented
+DCGAN.png> <./Images/EfficientNetV2SBaselineTrainingValidationLossXRayCOVID19Au
+gmentedDCGAN.png>]
+
+LaTeX Warning: Reference `fig:Real COVID-19 Radiography Mask Example' on page 9
+3 undefined on input line 234.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated COVID-19 Radiography Mask
+(DCGAN)' on page 93 undefined on input line 234.
+
+<Images/Radiography_Real_Mask_COVID19_Example.png, id=919, 256.96pt x 256.96pt>
+
+File: Images/Radiography_Real_Mask_COVID19_Example.png Graphic file (type png)
+<use Images/Radiography_Real_Mask_COVID19_Example.png>
+Package pdftex.def Info: Images/Radiography_Real_Mask_COVID19_Example.png  used
+ on input line 239.
+(pdftex.def)             Requested size: 71.01593pt x 71.01514pt.
+<Images/Radiography_GAN_Mask_COVID19_Example.png, id=920, 128.48pt x 128.48pt>
+File: Images/Radiography_GAN_Mask_COVID19_Example.png Graphic file (type png)
+<use Images/Radiography_GAN_Mask_COVID19_Example.png>
+Package pdftex.def Info: Images/Radiography_GAN_Mask_COVID19_Example.png  used 
+on input line 245.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+Package hyperref Info: bookmark level for unknown subfigure defaults to 0 on in
+put line 249.
+
+LaTeX Warning: Reference `fig:Real COVID-19 Radiography Mask Example' on page 9
+3 undefined on input line 250.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated COVID-19 Radiography Mask
+(DCGAN)' on page 93 undefined on input line 250.
+
+<Images/ArtefactImageCOVID19MaskRadiographyDCGAN.png, id=921, 128.48pt x 128.48
+pt>
+File: Images/ArtefactImageCOVID19MaskRadiographyDCGAN.png Graphic file (type pn
+g)
+<use Images/ArtefactImageCOVID19MaskRadiographyDCGAN.png>
+Package pdftex.def Info: Images/ArtefactImageCOVID19MaskRadiographyDCGAN.png  u
+sed on input line 255.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+<Images/MalformedImageCOVID19MaskRadiographyDCGAN.png, id=922, 128.48pt x 128.4
+8pt>
+File: Images/MalformedImageCOVID19MaskRadiographyDCGAN.png Graphic file (type p
+ng)
+<use Images/MalformedImageCOVID19MaskRadiographyDCGAN.png>
+Package pdftex.def Info: Images/MalformedImageCOVID19MaskRadiographyDCGAN.png  
+used on input line 261.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+[93 <./Images/Radiography_Real_Mask_COVID19_Example.png (PNG copy)> <./Images/R
+adiography_GAN_Mask_COVID19_Example.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:Synthetically Generated COVID-19 Radiography X-ra
+y(DCGAN)' on page 94 undefined on input line 268.
+
+
+LaTeX Warning: Reference `fig:Real COVID-19 Radiography X-ray Example' on page 
+94 undefined on input line 268.
+
+<Images/ExampleofXrayRadiographyCOVID19.png, id=931, 300.12125pt x 300.12125pt>
+
+File: Images/ExampleofXrayRadiographyCOVID19.png Graphic file (type png)
+<use Images/ExampleofXrayRadiographyCOVID19.png>
+Package pdftex.def Info: Images/ExampleofXrayRadiographyCOVID19.png  used on in
+put line 273.
+(pdftex.def)             Requested size: 62.14098pt x 62.1389pt.
+<Images/SyntheticRadiographyXrayCOVID19Example.png, id=932, 128.48pt x 128.48pt
+>
+File: Images/SyntheticRadiographyXrayCOVID19Example.png Graphic file (type png)
+
+<use Images/SyntheticRadiographyXrayCOVID19Example.png>
+Package pdftex.def Info: Images/SyntheticRadiographyXrayCOVID19Example.png  use
+d on input line 279.
+(pdftex.def)             Requested size: 62.14098pt x 62.14215pt.
+
+LaTeX Warning: Reference `fig:Real COVID-19 Radiography X-ray Example' on page 
+94 undefined on input line 284.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated COVID-19 Radiography X-ra
+y(DCGAN)' on page 94 undefined on input line 284.
+
+<Images/MalformedCOVID19XrayImageExample1RadiographyDCGAN.png, id=933, 128.48pt
+ x 128.48pt>
+File: Images/MalformedCOVID19XrayImageExample1RadiographyDCGAN.png Graphic file
+ (type png)
+<use Images/MalformedCOVID19XrayImageExample1RadiographyDCGAN.png>
+Package pdftex.def Info: Images/MalformedCOVID19XrayImageExample1RadiographyDCG
+AN.png  used on input line 289.
+(pdftex.def)             Requested size: 62.14098pt x 62.14215pt.
+<Images/MalformedCOVID19XrayImageExample2RadiographyDCGAN.png, id=934, 128.48pt
+ x 128.48pt>
+File: Images/MalformedCOVID19XrayImageExample2RadiographyDCGAN.png Graphic file
+ (type png)
+<use Images/MalformedCOVID19XrayImageExample2RadiographyDCGAN.png>
+Package pdftex.def Info: Images/MalformedCOVID19XrayImageExample2RadiographyDCG
+AN.png  used on input line 295.
+(pdftex.def)             Requested size: 62.14098pt x 62.14215pt.
+
+LaTeX Warning: Reference `fig:Synthetically Generated Pneumonia Radiography Mas
+k(DCGAN)' on page 94 undefined on input line 301.
+
+
+LaTeX Warning: Reference `fig:Real Pneumonia Radiography Mask Example' on page 
+94 undefined on input line 301.
+
+<Images/ExampleOfSyntheticallyGeneratedMaskPneumoniaCOVID19RadiographyDCGAN.png
+, id=935, 128.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedMaskPneumoniaCOVID19RadiographyDCGA
+N.png Graphic file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedMaskPneumoniaCOVID19RadiographyDCGAN
+.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedMaskPneumoniaCOV
+ID19RadiographyDCGAN.png  used on input line 306.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+<Images/ExampleOfPneumoniaMaskRadiographyCOVID19.png, id=936, 256.96pt x 256.96
+pt>
+File: Images/ExampleOfPneumoniaMaskRadiographyCOVID19.png Graphic file (type pn
+g)
+<use Images/ExampleOfPneumoniaMaskRadiographyCOVID19.png>
+Package pdftex.def Info: Images/ExampleOfPneumoniaMaskRadiographyCOVID19.png  u
+sed on input line 312.
+(pdftex.def)             Requested size: 71.01593pt x 71.01514pt.
+[94 <./Images/ArtefactImageCOVID19MaskRadiographyDCGAN.png (PNG copy)> <./Image
+s/MalformedImageCOVID19MaskRadiographyDCGAN.png (PNG copy)> <./Images/Exampleof
+XrayRadiographyCOVID19.png (PNG copy)> <./Images/SyntheticRadiographyXrayCOVID1
+9Example.png (PNG copy)> <./Images/MalformedCOVID19XrayImageExample1Radiography
+DCGAN.png (PNG copy)> <./Images/MalformedCOVID19XrayImageExample2RadiographyDCG
+AN.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:Real Pneumonia Radiography X-ray Example' on page
+ 95 undefined on input line 317.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated Pneumonia Radiography X-r
+ay(DCGAN)' on page 95 undefined on input line 317.
+
+<Images/ExampleOfPneumoniaXrayRadiographyCOVID19.png, id=946, 300.12125pt x 300
+.12125pt>
+File: Images/ExampleOfPneumoniaXrayRadiographyCOVID19.png Graphic file (type pn
+g)
+<use Images/ExampleOfPneumoniaXrayRadiographyCOVID19.png>
+Package pdftex.def Info: Images/ExampleOfPneumoniaXrayRadiographyCOVID19.png  u
+sed on input line 322.
+(pdftex.def)             Requested size: 71.01593pt x 71.01392pt.
+<Images/ExampleOfSyntheticallyGeneratedXrayPneumoniaCOVID19RadiographyDCGAN.png
+, id=947, 128.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedXrayPneumoniaCOVID19RadiographyDCGA
+N.png Graphic file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedXrayPneumoniaCOVID19RadiographyDCGAN
+.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedXrayPneumoniaCOV
+ID19RadiographyDCGAN.png  used on input line 328.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+
+LaTeX Warning: Reference `fig:Real Pneumonia Radiography X-ray Example' on page
+ 95 undefined on input line 333.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated Pneumonia Radiography X-r
+ay(DCGAN)' on page 95 undefined on input line 333.
+
+<Images/ExampleOfRealExtensiveCOVIDXray.png, id=948, 2258.4375pt x 1913.64937pt
+>
+File: Images/ExampleOfRealExtensiveCOVIDXray.png Graphic file (type png)
+<use Images/ExampleOfRealExtensiveCOVIDXray.png>
+Package pdftex.def Info: Images/ExampleOfRealExtensiveCOVIDXray.png  used on in
+put line 342.
+(pdftex.def)             Requested size: 71.01593pt x 60.1518pt.
+<Images/ExampleOfSyntheticallyGeneratedCOVIDXrayExtensiveDCGAN.png, id=949, 128
+.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedCOVIDXrayExtensiveDCGAN.png Graphic
+ file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedCOVIDXrayExtensiveDCGAN.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedCOVIDXrayExtensi
+veDCGAN.png  used on input line 348.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+[95 <./Images/ExampleOfSyntheticallyGeneratedMaskPneumoniaCOVID19RadiographyDCG
+AN.png (PNG copy)> <./Images/ExampleOfPneumoniaMaskRadiographyCOVID19.png (PNG 
+copy)> <./Images/ExampleOfPneumoniaXrayRadiographyCOVID19.png (PNG copy)> <./Im
+ages/ExampleOfSyntheticallyGeneratedXrayPneumoniaCOVID19RadiographyDCGAN.png (P
+NG copy)>]
+
+LaTeX Warning: Reference `fig:Real Non COVID X-ray Example Extensive' on page 9
+6 undefined on input line 355.
+
+
+LaTeX Warning: Reference `fig:Synthetically Generated Non COVID X-ray Example E
+xtensive DCGAN' on page 96 undefined on input line 355.
+
+<Images/ExampleOfNonCOVIDXray.png, id=958, 1027.84pt x 1027.84pt>
+File: Images/ExampleOfNonCOVIDXray.png Graphic file (type png)
+<use Images/ExampleOfNonCOVIDXray.png>
+Package pdftex.def Info: Images/ExampleOfNonCOVIDXray.png  used on input line 3
+60.
+(pdftex.def)             Requested size: 71.01593pt x 71.01514pt.
+<Images/ExampleOfSyntheticNonCOVIDXrayExtensiveDCGAN.png, id=959, 128.48pt x 12
+8.48pt>
+File: Images/ExampleOfSyntheticNonCOVIDXrayExtensiveDCGAN.png Graphic file (typ
+e png)
+<use Images/ExampleOfSyntheticNonCOVIDXrayExtensiveDCGAN.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticNonCOVIDXrayExtensiveDCGAN.pn
+g  used on input line 366.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+
+LaTeX Warning: Reference `fig:Malformed Image of COVID 19 Mask(Radiography DCGA
+N)' on page 96 undefined on input line 373.
+
+
+LaTeX Warning: Reference `fig:Image with Artefacts(Radiography DCGAN)' on page 
+96 undefined on input line 373.
+
+<Images/COVIDCTScanExampleExtensive.png, id=960, 632.3625pt x 632.3625pt>
+File: Images/COVIDCTScanExampleExtensive.png Graphic file (type png)
+<use Images/COVIDCTScanExampleExtensive.png>
+Package pdftex.def Info: Images/COVIDCTScanExampleExtensive.png  used on input 
+line 380.
+(pdftex.def)             Requested size: 71.01593pt x 71.00745pt.
+<Images/ExampleOfSyntheticallyGeneratedCOVIDCTScanExtensiveDCGAN.png, id=961, 1
+28.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedCOVIDCTScanExtensiveDCGAN.png Graph
+ic file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedCOVIDCTScanExtensiveDCGAN.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedCOVIDCTScanExten
+siveDCGAN.png  used on input line 386.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+[96 <./Images/ExampleOfRealExtensiveCOVIDXray.png> <./Images/ExampleOfSynthetic
+allyGeneratedCOVIDXrayExtensiveDCGAN.png (PNG copy)> <./Images/ExampleOfNonCOVI
+DXray.png (PNG copy)> <./Images/ExampleOfSyntheticNonCOVIDXrayExtensiveDCGAN.pn
+g (PNG copy)>]
+
+LaTeX Warning: Reference `fig:Synthetically Generated COVID CT Example Extensiv
+e DCGAN' on page 97 undefined on input line 391.
+
+
+LaTeX Warning: Reference `fig:Real COVID CT Example Extensive' on page 97 undef
+ined on input line 391.
+
+<Images/ExampleOfSyntheticNonCOVIDCTScanExtensiveDCGAN.png, id=970, 128.48pt x 
+128.48pt>
+File: Images/ExampleOfSyntheticNonCOVIDCTScanExtensiveDCGAN.png Graphic file (t
+ype png)
+<use Images/ExampleOfSyntheticNonCOVIDCTScanExtensiveDCGAN.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticNonCOVIDCTScanExtensiveDCGAN.
+png  used on input line 397.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+<Images/ExampleOfNonCOVIDCTScan.png, id=971, 373.395pt x 275.0275pt>
+File: Images/ExampleOfNonCOVIDCTScan.png Graphic file (type png)
+<use Images/ExampleOfNonCOVIDCTScan.png>
+Package pdftex.def Info: Images/ExampleOfNonCOVIDCTScan.png  used on input line
+ 404.
+(pdftex.def)             Requested size: 71.01593pt x 52.30612pt.
+
+LaTeX Warning: Reference `fig:Synthetically Generated non COVID CT Example Exte
+nsive DCGAN' on page 97 undefined on input line 409.
+
+
+LaTeX Warning: Reference `fig:Real non COVID CT Example Extensive' on page 97 u
+ndefined on input line 409.
+
+<Images/ExampleOfNormalXrayXrayCOVID19Dataset.jpeg, id=972, 2029.5825pt x 2078.
+76625pt>
+File: Images/ExampleOfNormalXrayXrayCOVID19Dataset.jpeg Graphic file (type jpg)
+
+<use Images/ExampleOfNormalXrayXrayCOVID19Dataset.jpeg>
+Package pdftex.def Info: Images/ExampleOfNormalXrayXrayCOVID19Dataset.jpeg  use
+d on input line 416.
+(pdftex.def)             Requested size: 71.01593pt x 72.73253pt.
+<Images/ExampleOfSyntheticallyGeneratedNormalXrayCOVID19XrayDatasetDCGAN.png, i
+d=973, 128.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedNormalXrayCOVID19XrayDatasetDCGAN.p
+ng Graphic file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedNormalXrayCOVID19XrayDatasetDCGAN.pn
+g>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedNormalXrayCOVID1
+9XrayDatasetDCGAN.png  used on input line 422.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+
+LaTeX Warning: Reference `fig:Synthetically Generated Normal X-ray X-ray Datase
+t COVID-19 DCGAN' on page 97 undefined on input line 427.
+
+
+LaTeX Warning: Reference `fig:Real Normal X-ray X-ray Dataset COVID-19' on page
+ 97 undefined on input line 427.
+
+<Images/ExampleOfPneumoniaXrayXrayCOVID19Dataset.jpeg, id=974, 1658.195pt x 131
+2.905pt>
+File: Images/ExampleOfPneumoniaXrayXrayCOVID19Dataset.jpeg Graphic file (type j
+pg)
+<use Images/ExampleOfPneumoniaXrayXrayCOVID19Dataset.jpeg>
+Package pdftex.def Info: Images/ExampleOfPneumoniaXrayXrayCOVID19Dataset.jpeg  
+used on input line 432.
+(pdftex.def)             Requested size: 71.01593pt x 56.21341pt.
+<Images/ExampleOfSyntheticallyGeneratedPneumoniaXrayCOVID19XrayDatasetDCGAN.png
+, id=975, 128.48pt x 128.48pt>
+File: Images/ExampleOfSyntheticallyGeneratedPneumoniaXrayCOVID19XrayDatasetDCGA
+N.png Graphic file (type png)
+<use Images/ExampleOfSyntheticallyGeneratedPneumoniaXrayCOVID19XrayDatasetDCGAN
+.png>
+Package pdftex.def Info: Images/ExampleOfSyntheticallyGeneratedPneumoniaXrayCOV
+ID19XrayDatasetDCGAN.png  used on input line 438.
+(pdftex.def)             Requested size: 71.01593pt x 71.01709pt.
+[97 <./Images/COVIDCTScanExampleExtensive.png (PNG copy)> <./Images/ExampleOfSy
+ntheticallyGeneratedCOVIDCTScanExtensiveDCGAN.png (PNG copy)> <./Images/Example
+OfSyntheticNonCOVIDCTScanExtensiveDCGAN.png (PNG copy)> <./Images/ExampleOfNonC
+OVIDCTScan.png> <./Images/ExampleOfNormalXrayXrayCOVID19Dataset.jpeg> <./Images
+/ExampleOfSyntheticallyGeneratedNormalXrayCOVID19XrayDatasetDCGAN.png (PNG copy
+)>]
+
+LaTeX Warning: Reference `fig:Synthetically Generated Pneumonia X-ray X-ray Dat
+aset COVID-19 DCGAN' on page 98 undefined on input line 443.
+
+
+LaTeX Warning: Reference `fig:Real Pneumonia X-ray X-ray Dataset COVID-19' on p
+age 98 undefined on input line 443.
+
+[98 <./Images/ExampleOfPneumoniaXrayXrayCOVID19Dataset.jpeg> <./Images/ExampleO
+fSyntheticallyGeneratedPneumoniaXrayCOVID19XrayDatasetDCGAN.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:Image with Artefacts(Radiography DCGAN)' on page 
+99 undefined on input line 453.
+
+
+LaTeX Warning: Reference `fig:Malformed Image of COVID 19 Mask(Radiography DCGA
+N)' on page 99 undefined on input line 453.
+
+) [99] [100]
+\openout2 = `"Chapter 5 Conclusions.aux"'.
+
+ (./Chapter 5 Conclusions.tex
+Chapter 5.
+\openout4 = `Main.pyg'.
+
+runsystem(pygmentize -l 'JavaScript' -f latex -P commandprefix=PYG -F tokenmerg
+e -P stripnl='False' -o _minted-Main/8A8E3B19C645DD0BF8C7629D349C1B35F8299FB816
+35367493FBC2BD4471A8B0.pygtex Main.pyg)...disabled (restricted).
+
+
+! Package minted Error: Missing Pygments output; \inputminted was
+probably given a file that does not exist--otherwise, you may need 
+the outputdir package option, or may be using an incompatible build tool,
+or may be using frozencache with a missing file.
+
+See the minted package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{minted}
+                 
+? 
+[101
+
+
+
+
+] [102] [103] [104]) [105]
+
+LaTeX Warning: Empty bibliography on input line 172.
+
+\tf@thm=\write11
+\openout11 = `Main.thm'.
+
+(./Main.aux (./Acknowledgements.aux) (./Acronyms.aux) (./Abstract.aux)
+(./Chapter 1 Introduction.aux) (./Chapter 2 Literature Review.aux)
+(./Chapter 3 Design & Implementation.aux) (./Chapter 4 Results.aux)
+(./Chapter 5 Conclusions.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: D4D1533A93733C2AB96066425E22A3FD;4096
+(rerunfilecheck)             After:  6416607DAE07AEB8ABDA8F1D75718622;15984.
+runsystem(rm Main.pyg)...disabled (restricted).
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'Main.run.xml'.
+\openout1 = `Main.run.xml'.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 133 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 55396 strings out of 477985
+ 1294239 string characters out of 5840058
+ 2212065 words of memory out of 5000000
+ 74187 multiletter control sequences out of 15000+600000
+ 524095 words of font info for 76 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 99i,12n,94p,2118b,1463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
+/sfrm1095.pfb>
+Output written on Main.pdf (113 pages, 14692687 bytes).
+PDF statistics:
+ 1174 PDF objects out of 1200 (max. 8388607)
+ 834 compressed objects within 9 object streams
+ 379 named destinations out of 1000 (max. 500000)
+ 764 words of extra memory for PDF output out of 10000 (max. 10000000)
+

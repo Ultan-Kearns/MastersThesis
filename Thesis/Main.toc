@@ -1,0 +1,132 @@
+\setcounter {tocdepth}{-1}
+\contentsline {chapter}{Contents}{1}{chapter*.1}%
+\setcounter {tocdepth}{2}
+\contentsline {chapter}{Declaration}{2}{chapter*.2}%
+\contentsline {chapter}{Acknowledgements}{3}{chapter*.3}%
+\contentsline {chapter}{Acronyms}{4}{chapter*.4}%
+\contentsline {chapter}{List of Figures}{5}{chapter*.6}%
+\contentsline {chapter}{List of Tables}{6}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Explanation of Generative Adversarial Networks (GANs)}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Explanation of Artificial Neural Networks (ANNs)}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}What is A Convolutional Neural Network? (CNN)}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Supervised Learning}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Unsupervised Learning}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Tensorflow}{5}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Keras}{5}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Background of Problem \& Aims of This Paper}{6}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Datasets}{8}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}COVID-19 Chest X-ray}{8}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}COVID-19 Radiography Database}{8}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}COVID-19 Pneumonia Normal Chest X-ray PA Dataset}{8}{subsection.1.9.3}%
+\contentsline {subsection}{\numberline {1.9.4}Extensive COVID-19 X-ray and CT Chest Images Dataset}{9}{subsection.1.9.4}%
+\contentsline {subsection}{\numberline {1.9.5}Use of datasets in This Project}{9}{subsection.1.9.5}%
+\contentsline {section}{\numberline {1.10}Structure of This Thesis}{9}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}Chapter 1 - Introduction}{9}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2}Chapter 2 - Literature Review}{10}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}Chapter 3 - Implementation}{10}{subsection.1.10.3}%
+\contentsline {subsection}{\numberline {1.10.4}Chapter 4 - Results}{10}{subsection.1.10.4}%
+\contentsline {subsection}{\numberline {1.10.5}Chapter 5 - Further Research and Conclusions}{10}{subsection.1.10.5}%
+\contentsline {chapter}{\numberline {2}Literature Review}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Analysis of Existing Models for Automated COVID-19 Detection}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Challenges \& Limitations of Using Artificial Intelligence in Automated Diagnosis Systems for COVID-19}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Research into Data Augmentation And Convolutional Neural Networks Architectures}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Conclusion}{38}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Design and Implementation}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{39}{section.3.1}%
+\contentsline {section}{\numberline {3.2}CNN Model Design and Comparison}{40}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Baseline Models}{40}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Transfer Learning CNN Baseline Models}{49}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Radiography Dataset}{49}{subsection.3.3.1}%
+\contentsline {subsubsection}{Xception}{49}{section*.67}%
+\contentsline {subsubsection}{ResNet50V2}{50}{section*.70}%
+\contentsline {subsubsection}{EfficientNetV2S}{51}{section*.73}%
+\contentsline {subsection}{\numberline {3.3.2}X-Ray COVID-19 Dataset}{52}{subsection.3.3.2}%
+\contentsline {subsubsection}{Xception}{52}{section*.76}%
+\contentsline {subsubsection}{ResNet50V2}{53}{section*.79}%
+\contentsline {subsubsection}{EfficientNetV2S}{54}{section*.82}%
+\contentsline {subsection}{\numberline {3.3.3}Evaluation of TL models for The x-ray covid 19 dataset}{55}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}COVID-19 Chest X-Ray Dataset}{55}{subsection.3.3.4}%
+\contentsline {subsubsection}{Xception}{55}{section*.85}%
+\contentsline {subsubsection}{ResNet50V2}{56}{section*.88}%
+\contentsline {subsubsection}{EfficientNetV2S}{57}{section*.91}%
+\contentsline {subsection}{\numberline {3.3.5}Extensive COVID-19 Dataset CT}{58}{subsection.3.3.5}%
+\contentsline {subsubsection}{Xception}{58}{section*.94}%
+\contentsline {subsubsection}{ResNet50V2}{59}{section*.97}%
+\contentsline {subsubsection}{EfficientNetV2S}{60}{section*.100}%
+\contentsline {subsection}{\numberline {3.3.6}Extensive COVID-19 Dataset X-ray}{61}{subsection.3.3.6}%
+\contentsline {subsubsection}{Xception}{61}{section*.103}%
+\contentsline {subsubsection}{ResNet50V2}{62}{section*.106}%
+\contentsline {subsubsection}{EfficientNetV2S}{63}{section*.109}%
+\contentsline {section}{\numberline {3.4}GAN Baseline Design and Comparison}{64}{section.3.4}%
+\contentsline {section}{\numberline {3.5}GANs for Radiography Dataset}{64}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}VAE(Variational Auto Encoder)}{65}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}DCGAN(Deep Convolutional GAN Network)}{65}{subsection.3.5.2}%
+\contentsline {subsubsection}{COVID-19 Mask Class Augmentation}{65}{section*.113}%
+\contentsline {subsubsection}{COVID-19 X-Ray Class Augmentation}{66}{section*.115}%
+\contentsline {subsubsection}{Pneumonia Mask Class Augmentation}{67}{section*.117}%
+\contentsline {subsubsection}{Pneumonia X-ray Class Augmentation}{67}{section*.118}%
+\contentsline {section}{\numberline {3.6}GANs for COVID 19 X-ray dataset}{67}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}VAEs}{67}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}DCGANs}{68}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}GANs for Chest X-ray COVID-19}{69}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Extensive COVID-19 X-Ray / CT}{69}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}VAEs}{69}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}DCGANs}{70}{subsection.3.8.2}%
+\contentsline {subsubsection}{X-ray DCGANs}{70}{section*.122}%
+\contentsline {subsubsection}{CT DCGANs}{71}{section*.124}%
+\contentsline {section}{\numberline {3.9}Conclusion}{72}{section.3.9}%
+\contentsline {chapter}{\numberline {4}Results}{73}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Evaluation of Performance of The Augmented CNN Models}{73}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Radiography CNN Models}{73}{subsection.4.1.1}%
+\contentsline {subsubsection}{Radiography Baseline Model}{73}{section*.127}%
+\contentsline {subsubsection}{Radiography Xception Model}{74}{section*.130}%
+\contentsline {subsubsection}{Radiography ResNet50V2 Model}{75}{section*.133}%
+\contentsline {subsubsection}{Radiography EfficentNetV2S Model}{76}{section*.136}%
+\contentsline {subsubsection}{Evaluation of Radiography Models}{77}{section*.139}%
+\contentsline {subsection}{\numberline {4.1.2}Extensive CNN Models}{78}{subsection.4.1.2}%
+\contentsline {subsubsection}{Extensive CNN CT Baseline Model}{78}{section*.140}%
+\contentsline {subsubsection}{Extensive CNN CT Xception Model}{79}{section*.143}%
+\contentsline {subsubsection}{Extensive CNN CT ResNet50V2 Model}{80}{section*.146}%
+\contentsline {subsubsection}{Extensive CNN CT EfficientNetV2S Model}{81}{section*.149}%
+\contentsline {subsubsection}{Evaluation of Extensive CNN CT Models}{82}{section*.152}%
+\contentsline {subsubsection}{Extensive CNN X-ray Baseline Model}{83}{section*.153}%
+\contentsline {subsubsection}{Extensive CNN X-ray Xception Model}{84}{section*.156}%
+\contentsline {subsubsection}{Extensive CNN X-ray ResNet50V2 Model}{85}{section*.159}%
+\contentsline {subsubsection}{Extensive CNN X-ray EfficientNetV2S Model}{86}{section*.162}%
+\contentsline {subsubsection}{Evaluation of Extensive CNN X-ray Models}{87}{section*.165}%
+\contentsline {subsection}{\numberline {4.1.3}X-ray COVID-19 dataset CNN Models}{88}{subsection.4.1.3}%
+\contentsline {subsubsection}{X-ray COVID-19 Baseline Model}{88}{section*.166}%
+\contentsline {subsubsection}{X-ray COVID-19 Xception Model}{89}{section*.169}%
+\contentsline {subsubsection}{X-ray COVID-19 ResNet50V2 Model}{90}{section*.172}%
+\contentsline {subsubsection}{X-ray COVID-19 EfficientNetV2S Model}{91}{section*.175}%
+\contentsline {subsubsection}{Evaluation of CNN models for X-ray COVID-19 Dataset}{92}{section*.178}%
+\contentsline {section}{\numberline {4.2}Evaluation of GAN Models}{93}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Radiography GAN Models}{93}{subsection.4.2.1}%
+\contentsline {subsubsection}{Radiography DCGAN for COVID-19 Class Augmentation}{93}{section*.179}%
+\contentsline {subsubsection}{Radiography DCGAN for Pneumonia Class Augmentation}{94}{section*.184}%
+\contentsline {subsection}{\numberline {4.2.2}Extensive X-Ray GAN Models}{95}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Extensive CT GAN Models}{96}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}X-ray COVID-19 dataset GAN Models}{97}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Summary of Results}{98}{subsection.4.2.5}%
+\contentsline {subsubsection}{Analysis of Results and Their Significance}{98}{section*.193}%
+\contentsline {section}{\numberline {4.3}Conclusion}{99}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusions}{101}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Limitations}{101}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Computational Resources Offered by Google Colab Pro}{101}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Run time Limits in Google Colab Pro}{102}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Lack of Data}{102}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Bias within Original and Augmented Datasets}{102}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Time}{102}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Financial Limitations}{103}{subsection.5.1.6}%
+\contentsline {subsubsection}{Assessment of Data Quality}{103}{section*.194}%
+\contentsline {section}{\numberline {5.2}Future Research}{103}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Suggestions for Future Research}{103}{subsection.5.2.1}%
+\contentsline {subsubsection}{Advancements in The Field of Artificial Intelligence}{103}{section*.195}%
+\contentsline {subsubsection}{Conducting Experiments with More Data}{104}{section*.196}%
+\contentsline {section}{\numberline {5.3}Conclusion of Work}{104}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Issues Faced and How They Should be Mitigated in Future Research}{104}{subsection.5.3.1}%
+\contentsline {subsubsection}{Slow Training of Models Due to Lack of Computational Resources}{104}{section*.197}%
+\contentsline {subsubsection}{Poor Quality Synthetic Data}{104}{section*.198}%
+\contentsline {subsection}{\numberline {5.3.2}Final Words}{104}{subsection.5.3.2}%
