@@ -1,10 +1,10 @@
-\contentsline {table}{\numberline {1}{\ignorespaces Acronyms used in this thesis\relax }}{4}{table.caption.5}%
+\contentsline {table}{\numberline {1}{\ignorespaces Acronyms used in this thesis\relax }}{6}{table.caption.5}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {2.1}{\ignorespaces Results of Standard CNN Network - A combined deep CNN-LSTM network for the detection of COVID-19 using X-ray images\relax }}{19}{table.caption.18}%
 \contentsline {table}{\numberline {2.2}{\ignorespaces Results of CNN - A combined deep CNN-LSTM network for the detection of COVID-19 using X-ray images\relax }}{20}{table.caption.20}%
 \contentsline {table}{\numberline {2.3}{\ignorespaces GAN Architectures used for experiments in\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation})\relax }}{24}{table.caption.22}%
-\contentsline {table}{\numberline {2.4}{\ignorespaces Results of Cancer data set using different GAN Architectures Experiment 1 (Data Augmentation using GANs)\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation}\relax }}{26}{table.caption.24}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Results of Cancer data set using different GAN Architectures Experiment 1 (Data Augmentation using GANs)\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation}\relax }}{25}{table.caption.24}%
 \contentsline {table}{\numberline {2.5}{\ignorespaces Results and label distribution of Diabetes data set using different GAN Architectures Experiment 1 (Data Augmentation using GANs)\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation}\relax }}{26}{table.caption.25}%
 \contentsline {table}{\numberline {2.6}{\ignorespaces Classification results on imbalanced test set experiment 2 (Data Augmentation using GANs)\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation}\relax }}{27}{table.caption.26}%
 \contentsline {table}{\numberline {2.7}{\ignorespaces Classification results on balanced test set experiment 2 (Data Augmentation using GANs)\blx@tocontentsinit {0}\cite {litReviewGanDataAugmentation}\relax }}{27}{table.caption.27}%
@@ -15,26 +15,26 @@
 \contentsline {table}{\numberline {2.12}{\ignorespaces Mean average precision after Augmentation(lychee Surface Defect Detection Based on Deep Convolutional Neural Networks with GAN-Based Data Augmentation)\blx@tocontentsinit {0}\cite {litReviewLychee}\relax }}{35}{table.caption.37}%
 \contentsline {table}{\numberline {2.13}{\ignorespaces Comparison of accuracy of base models vs models with data augmentation(lychee Surface Defect Detection Based on Deep Convolutional Neural Networks with GAN-Based Data Augmentation)\blx@tocontentsinit {0}\cite {litReviewLychee}\relax }}{37}{table.caption.40}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces X-ray COVID-19 dataset CNN baseline model architecture\relax }}{41}{table.caption.41}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces X-ray COVID-19 dataset CNN baseline model architecture\relax }}{40}{table.caption.41}%
 \contentsline {table}{\numberline {3.2}{\ignorespaces X-ray COVID-19 dataset CNN baseline model hyperparameters\relax }}{41}{table.caption.43}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces X-ray COVID-19 dataset CNN baseline model results\relax }}{42}{table.caption.44}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces X-ray COVID-19 dataset CNN baseline model results\relax }}{41}{table.caption.44}%
 \contentsline {table}{\numberline {3.4}{\ignorespaces Radiography CNN baseline model architecture\relax }}{43}{table.caption.47}%
 \contentsline {table}{\numberline {3.5}{\ignorespaces Radiography CNN baseline model hyperparameters\relax }}{43}{table.caption.48}%
 \contentsline {table}{\numberline {3.6}{\ignorespaces Radiography CNN baseline results\relax }}{43}{table.caption.49}%
-\contentsline {table}{\numberline {3.7}{\ignorespaces COVID-19 chest X-ray CNN baseline model architecture for COVID-19 Chest X-ray Dataset\relax }}{45}{table.caption.52}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces COVID-19 chest X-ray CNN baseline model architecture for COVID-19 Chest X-ray Dataset\relax }}{44}{table.caption.52}%
 \contentsline {table}{\numberline {3.8}{\ignorespaces COVID-19 chest X-ray CNN baseline model hyperparameters for COVID-19 Chest X-ray Dataset\relax }}{45}{table.caption.53}%
 \contentsline {table}{\numberline {3.9}{\ignorespaces COVID-19 chest X-ray CNN baseline model results for COVID-19 Chest X-ray Dataset\relax }}{45}{table.caption.54}%
 \contentsline {table}{\numberline {3.10}{\ignorespaces Extensive COVID-19 CT Dataset CNN baseline model architecture\relax }}{46}{table.caption.57}%
 \contentsline {table}{\numberline {3.11}{\ignorespaces Extensive CT CNN baseline model hyperparameters\relax }}{46}{table.caption.58}%
-\contentsline {table}{\numberline {3.12}{\ignorespaces Extensive CT CNN baseline model results\relax }}{47}{table.caption.59}%
-\contentsline {table}{\numberline {3.13}{\ignorespaces Extensive COVID-19 X-Ray CNN Baseline Model Architecture\relax }}{48}{table.caption.62}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces Extensive CT CNN baseline model results\relax }}{46}{table.caption.59}%
+\contentsline {table}{\numberline {3.13}{\ignorespaces Extensive COVID-19 X-Ray CNN Baseline Model Architecture\relax }}{47}{table.caption.62}%
 \contentsline {table}{\numberline {3.14}{\ignorespaces Extensive COVID-19 X-Ray CNN baseline model hyperparameters\relax }}{48}{table.caption.63}%
 \contentsline {table}{\numberline {3.15}{\ignorespaces Extensive COVID-19 X-Ray CNN baseline model results\relax }}{48}{table.caption.64}%
-\contentsline {table}{\numberline {3.16}{\ignorespaces DCGAN for Producing Synthetic COVID-19 Mask Data From Radiography Dataset \relax }}{66}{table.caption.114}%
-\contentsline {table}{\numberline {3.17}{\ignorespaces DCGAN for Producing Synthetic COVID-19 X-Ray Data From Radiography Dataset \relax }}{67}{table.caption.116}%
-\contentsline {table}{\numberline {3.18}{\ignorespaces DCGAN for Producing Synthetic Normal Class Data for X-ray COVID19 dataset\relax }}{68}{table.caption.119}%
-\contentsline {table}{\numberline {3.19}{\ignorespaces DCGAN for Producing Synthetic X-ray COVID Class Data for Extensive COVID 19 Dataset\relax }}{70}{table.caption.123}%
-\contentsline {table}{\numberline {3.20}{\ignorespaces DCGAN for Producing Synthetic CT COVID Class Data for Extensive COVID 19 Dataset\relax }}{71}{table.caption.125}%
-\contentsline {table}{\numberline {3.21}{\ignorespaces DCGAN for Producing Synthetic CT Non COVID Class Data for Extensive COVID 19 Dataset\relax }}{72}{table.caption.126}%
+\contentsline {table}{\numberline {3.16}{\ignorespaces DCGAN for Producing Synthetic COVID-19 Mask Data From Radiography Dataset \relax }}{67}{table.caption.114}%
+\contentsline {table}{\numberline {3.17}{\ignorespaces DCGAN for Producing Synthetic COVID-19 X-Ray Data From Radiography Dataset \relax }}{68}{table.caption.116}%
+\contentsline {table}{\numberline {3.18}{\ignorespaces DCGAN for Producing Synthetic Normal Class Data for X-ray COVID19 dataset\relax }}{70}{table.caption.119}%
+\contentsline {table}{\numberline {3.19}{\ignorespaces DCGAN for Producing Synthetic X-ray COVID Class Data for Extensive COVID 19 Dataset\relax }}{73}{table.caption.123}%
+\contentsline {table}{\numberline {3.20}{\ignorespaces DCGAN for Producing Synthetic CT COVID Class Data for Extensive COVID 19 Dataset\relax }}{76}{table.caption.125}%
+\contentsline {table}{\numberline {3.21}{\ignorespaces DCGAN for Producing Synthetic CT Non COVID Class Data for Extensive COVID 19 Dataset\relax }}{78}{table.caption.126}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
